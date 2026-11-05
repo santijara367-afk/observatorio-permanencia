@@ -1,0 +1,18 @@
+﻿n,problema,regla,etapa,archivo,filas_afectadas
+1,Los archivos traen BOM y pandas puede convertir documentos y notas a número,Leer con codificación utf-8-sig y todas las columnas como texto,Extracción,Todos,24370
+2,Documento con puntos de miles (ej. 1.000.902.633),Quitar los puntos del documento,Transformación,sis_matriculas,29
+3,"Periodo escrito ""2025-II""","Normalizar ""2025-II"" a ""2025-2""",Transformación,sis_matriculas,7
+4,"Programa en mayúsculas o abreviado (ej. ""ADMON EMPRESAS"")",Llevar al nombre oficial con tabla de equivalencias,Transformación,sis_matriculas,139
+5,Filas duplicadas del mismo estudiante en el mismo periodo,Conservar una sola fila por código y periodo,Transformación,sis_matriculas,17
+6,"Promedio con coma decimal (ej. ""2,6"")",Reemplazar la coma por punto,Transformación,sis_matriculas,40
+7,"Promedio sin separador decimal (ej. ""36"" en una escala de 0 a 5)",Dividir entre 10 los promedios mayores a 5,Transformación,sis_matriculas,13
+8,Transferencias que ingresan en 2025-2 mezcladas con la cohorte,"Cohorte = periodo 2025-1 y tipo de ingreso ""Nuevo""; se excluyen las transferencias",Transformación,sis_matriculas,40
+9,Admitidos duplicados con el nombre en mayúsculas,Conservar un registro por documento (el de nombre en formato título),Transformación,admisiones,30
+10,"Fechas de admisión en tres formatos (dd/mm/aaaa, dd-mes-aaaa, aaaa-mm-dd)",Convertir todas a aaaa-mm-dd,Transformación,admisiones,1052
+11,Documento con puntos de miles,Quitar los puntos del documento,Transformación,erp_pagos_2025_2,1132
+12,Estado de pago sin estandarizar (PAGADO / Pagado),Llevar el estado a formato título,Transformación,erp_pagos_2025_2,50
+13,Bienestar no trae documento y hay homónimos (mismo nombre en dos programas),"Cruzar contra admisiones por nombre normalizado (mayúsculas, sin tildes) y programa",Transformación,bienestar_registros_2025_1,276
+14,Bienestar tiene una fila por atención: un estudiante puede aparecer varias veces,Resumir en una fila por estudiante con indicadores 0/1 por tipo de registro,Transformación,bienestar_registros_2025_1,36
+15,Correos institucionales compartidos por dos estudiantes (ej. manuel.osorio94@),Asignar el código a cada bloque de 16 semanas según el orden por código; se valida que el correo coincida en el 100 % de las filas,Transformación,moodle_actividad_2025_1,4
+16,"Nota parcial en escala de 0 a 100 y solo en las semanas 4, 8, 12 y 16",Convertir a escala de 0 a 5 (dividir entre 20),Transformación,moodle_actividad_2025_1,4800
+17,"Datos personales y sensibles (documento, correo, nombre, atenciones psicológicas)","Publicar la tabla con una clave sustituta, sin datos de identificación ni atenciones psicológicas",Carga,cohorte_limpia.csv,1200

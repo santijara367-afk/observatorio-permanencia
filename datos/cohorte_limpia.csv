@@ -1,0 +1,1201 @@
+﻿sk_estudiante,programa,facultad,estrato,tipo_colegio,puntaje_saber11,creditos,promedio_2025_1,matriculado_2025_2,desertor,accesos_s1_8,accesos_s5_8,accesos_s7_8,nota_s4,nota_s8,nota_prom_s4_s8,alerta_actual,alerta_nueva,cancelacion_formal,alerta_docente,pago_pendiente_2025_2
+EST0247,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,355,18,4.1,1,0,45,22,9,5.0,3.9,4.45,0,0,0,0,0
+EST0031,Ingeniería Industrial,Ingeniería,1,Privado,283,17,3.7,1,0,68,39,21,2.25,3.55,2.9,1,0,0,0,0
+EST0881,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,274,15,3.2,1,0,47,25,12,3.25,3.95,3.6,0,0,0,0,0
+EST0227,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,332,14,3.9,1,0,70,39,20,3.25,3.25,3.25,0,0,0,0,0
+EST0108,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,315,18,4.5,1,0,70,32,10,4.75,4.4,4.575,0,0,0,0,0
+EST0344,Psicología,Ciencias Sociales y Humanas,3,Privado,209,15,2.0,1,0,17,9,3,2.85,1.2,2.025,1,1,0,0,0
+EST1062,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,312,18,3.2,1,0,55,31,14,2.8,2.4,2.5999999999999996,1,0,0,0,0
+EST0855,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,295,18,3.3,1,0,35,17,9,3.6,3.3,3.45,0,0,0,0,0
+EST0699,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,248,18,3.0,1,0,46,30,14,3.15,4.15,3.6500000000000004,0,0,0,0,0
+EST0471,Psicología,Ciencias Sociales y Humanas,4,Oficial,356,17,4.4,1,0,42,22,16,5.0,4.8,4.9,0,0,0,0,0
+EST0426,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,265,16,3.3,1,0,38,18,9,4.05,3.5,3.775,0,0,0,0,0
+EST0516,Psicología,Ciencias Sociales y Humanas,6,Privado,283,17,3.0,1,0,22,14,7,4.3,4.25,4.275,0,0,0,1,0
+EST0646,Ingeniería Informática,Ingeniería,2,Oficial,306,15,3.2,1,0,30,17,7,2.8,2.1,2.45,1,0,0,0,0
+EST1449,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,231,18,3.9,1,0,60,26,11,3.65,4.25,3.95,0,0,0,0,0
+EST1383,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,347,16,3.0,0,1,33,4,1,3.7,3.7,3.7,0,1,1,0,0
+EST0502,Psicología,Ciencias Sociales y Humanas,3,Oficial,337,18,3.7,1,0,69,26,15,3.3,3.3,3.3,0,0,0,0,0
+EST0850,Psicología,Ciencias Sociales y Humanas,1,Privado,247,15,2.8,0,1,48,24,11,2.25,3.0,2.625,1,0,0,0,0
+EST0012,Ingeniería Informática,Ingeniería,4,Oficial,270,15,3.3,1,0,39,18,12,3.4,3.4,3.4,0,0,0,1,0
+EST0136,Ingeniería Industrial,Ingeniería,5,Privado,250,15,2.7,1,0,29,12,6,3.15,3.25,3.2,0,0,0,0,0
+EST0329,Ingeniería Industrial,Ingeniería,3,Oficial,272,15,3.5,1,0,38,20,6,3.65,3.9,3.775,0,0,0,0,0
+EST0084,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,198,14,,0,1,2,1,1,1.75,2.2,1.975,1,1,0,0,0
+EST0898,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,291,16,3.0,1,0,49,27,14,2.85,3.85,3.35,0,0,0,0,0
+EST0887,Psicología,Ciencias Sociales y Humanas,1,Oficial,273,15,3.4,1,0,20,8,4,3.7,3.75,3.725,0,0,0,0,0
+EST0265,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,373,18,4.3,1,0,61,29,16,4.2,4.55,4.375,0,0,0,0,0
+EST0615,Ingeniería Informática,Ingeniería,1,Privado,314,14,3.6,1,0,56,26,12,3.55,2.8,3.175,0,0,0,0,0
+EST0718,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,302,15,3.2,1,0,40,17,11,3.55,3.35,3.45,0,0,0,0,0
+EST0437,Ingeniería Industrial,Ingeniería,1,Oficial,257,18,3.4,1,0,48,24,15,3.05,3.65,3.3499999999999996,0,0,0,0,0
+EST0777,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,258,17,2.1,1,0,24,14,8,3.3,1.6,2.45,1,0,0,0,0
+EST0412,Psicología,Ciencias Sociales y Humanas,4,Privado,295,16,3.4,1,0,38,13,5,4.05,4.05,4.05,0,0,0,0,0
+EST1137,Ingeniería Informática,Ingeniería,4,Oficial,299,17,3.7,1,0,55,23,13,3.7,3.55,3.625,0,0,0,0,0
+EST1244,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,307,18,3.9,1,0,61,28,12,3.4,4.55,3.9749999999999996,0,0,0,0,0
+EST0716,Ingeniería Informática,Ingeniería,3,Oficial,247,14,3.3,1,0,48,22,12,3.7,2.9,3.3,0,0,0,0,0
+EST0698,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,282,16,4.3,1,0,45,23,14,4.9,4.75,4.825,0,0,0,0,0
+EST0389,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,402,16,3.5,1,0,30,16,7,4.35,4.0,4.175,0,0,0,0,0
+EST1030,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,313,18,3.7,1,0,43,25,11,3.85,3.95,3.9000000000000004,0,0,0,0,0
+EST0181,Ingeniería Industrial,Ingeniería,3,Privado,318,15,4.3,1,0,65,25,14,4.15,4.6,4.375,0,0,0,0,0
+EST0424,Psicología,Ciencias Sociales y Humanas,2,Privado,263,16,3.7,1,0,57,23,9,3.55,3.15,3.3499999999999996,0,0,0,0,0
+EST0430,Ingeniería Industrial,Ingeniería,1,Privado,193,15,2.1,0,1,9,5,2,1.5,2.15,1.825,1,1,1,0,1
+EST1149,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,242,16,2.5,1,0,21,12,3,2.55,2.55,2.55,1,0,0,0,0
+EST0313,Psicología,Ciencias Sociales y Humanas,2,Oficial,347,17,4.0,1,0,58,23,14,4.25,4.5,4.375,0,0,0,0,0
+EST0020,Psicología,Ciencias Sociales y Humanas,2,Oficial,251,16,2.9,1,0,26,11,5,2.65,2.55,2.5999999999999996,1,0,0,0,0
+EST0982,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,321,18,3.5,1,0,52,28,12,3.55,3.45,3.5,0,0,0,0,0
+EST0920,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,243,18,2.0,0,1,22,10,5,2.15,2.25,2.2,1,1,0,0,0
+EST0848,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,322,15,3.2,1,0,40,17,7,2.85,2.45,2.6500000000000004,1,0,0,0,0
+EST0649,Ingeniería Industrial,Ingeniería,2,Oficial,237,16,2.9,0,1,52,30,15,3.35,2.8,3.075,0,0,0,1,1
+EST0229,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,410,15,4.2,1,0,36,16,6,4.35,4.15,4.25,0,0,0,0,0
+EST0962,Psicología,Ciencias Sociales y Humanas,2,Oficial,266,16,2.9,1,0,24,9,5,3.1,2.7,2.9000000000000004,1,0,0,0,0
+EST0243,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,265,18,3.2,1,0,34,14,7,2.0,3.2,2.6,1,0,0,0,0
+EST0674,Ingeniería Industrial,Ingeniería,1,Privado,280,15,3.5,1,0,36,20,8,3.6,2.55,3.075,0,0,0,0,0
+EST0468,Ingeniería Informática,Ingeniería,3,Oficial,388,16,3.8,1,0,49,26,14,4.05,3.3,3.675,0,0,0,0,0
+EST0314,Ingeniería Informática,Ingeniería,4,Privado,317,18,3.8,1,0,52,28,15,4.6,3.4,4.0,0,0,0,0,0
+EST1027,Ingeniería Industrial,Ingeniería,2,Oficial,333,15,3.8,1,0,48,20,10,4.35,4.6,4.475,0,0,0,0,0
+EST1072,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,282,14,2.8,0,1,20,8,5,3.0,2.95,2.975,1,0,0,1,0
+EST1186,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,267,14,3.8,1,0,43,15,8,4.45,3.95,4.2,0,0,0,0,1
+EST1202,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,262,15,2.5,0,1,22,13,7,3.5,2.25,2.875,1,0,0,1,1
+EST0922,Psicología,Ciencias Sociales y Humanas,6,Oficial,277,17,2.8,1,0,24,8,2,2.65,3.2,2.925,1,0,0,0,0
+EST0272,Ingeniería Informática,Ingeniería,3,Oficial,335,18,3.9,1,0,39,21,10,4.0,3.35,3.675,0,0,0,0,0
+EST0874,Ingeniería Industrial,Ingeniería,3,Oficial,323,14,4.5,1,0,71,37,16,4.85,4.4,4.625,0,0,0,0,0
+EST1254,Psicología,Ciencias Sociales y Humanas,2,Privado,300,14,3.3,1,0,29,16,9,2.8,4.15,3.475,0,0,0,0,0
+EST0180,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,223,16,2.2,0,1,5,1,0,1.9,2.65,2.275,1,1,1,0,0
+EST0169,Ingeniería Informática,Ingeniería,1,Oficial,307,14,3.4,1,0,49,25,13,3.25,2.75,3.0,0,0,0,0,0
+EST0614,Psicología,Ciencias Sociales y Humanas,2,Oficial,271,16,2.9,0,1,40,23,13,2.1,3.15,2.625,1,0,0,0,0
+EST0094,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,360,15,4.6,1,0,70,26,15,5.0,4.0,4.5,0,0,0,0,0
+EST0055,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,349,18,3.8,1,0,48,25,13,4.35,4.1,4.225,0,0,0,0,0
+EST0611,Psicología,Ciencias Sociales y Humanas,3,Privado,340,14,3.9,1,0,49,24,10,4.1,3.75,3.925,0,0,0,0,0
+EST0463,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,303,17,2.8,0,1,33,13,7,2.35,2.65,2.5,1,0,0,1,0
+EST1353,Psicología,Ciencias Sociales y Humanas,1,Oficial,309,17,3.4,1,0,58,28,15,3.8,2.85,3.325,0,0,0,0,0
+EST0486,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,313,16,,1,0,25,14,6,4.25,4.6,4.425,0,0,0,0,1
+EST0909,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,292,16,4.0,1,0,59,24,14,4.8,4.35,4.574999999999999,0,0,0,0,0
+EST1209,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,287,14,2.8,0,1,32,14,1,2.65,0.75,1.7,1,0,1,0,0
+EST0973,Ingeniería Industrial,Ingeniería,6,Privado,224,15,3.2,1,0,64,34,15,4.8,3.1,3.95,0,0,0,0,0
+EST0494,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,277,16,3.4,1,0,56,24,8,3.7,3.05,3.375,0,0,0,0,1
+EST1220,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,342,14,3.8,1,0,78,34,21,3.0,4.05,3.525,0,0,0,1,0
+EST0473,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,263,14,3.1,1,0,33,20,16,2.45,2.3,2.375,1,0,0,0,0
+EST0668,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,301,18,2.8,1,0,44,17,8,3.1,1.8,2.45,1,0,0,0,1
+EST0555,Psicología,Ciencias Sociales y Humanas,2,Oficial,348,17,3.7,1,0,33,18,9,4.65,3.3,3.975,0,0,0,0,0
+EST0572,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,292,14,2.9,1,0,45,22,8,3.0,3.5,3.25,0,0,0,0,0
+EST1173,Ingeniería Informática,Ingeniería,3,Privado,287,14,3.1,1,0,36,18,10,3.45,2.95,3.2,0,0,0,0,0
+EST1099,Ingeniería Informática,Ingeniería,2,Oficial,342,15,3.3,0,1,18,2,0,3.1,2.2,2.6500000000000004,1,1,1,1,0
+EST1139,Ingeniería Informática,Ingeniería,3,Oficial,346,16,3.9,1,0,49,25,13,3.85,4.05,3.95,0,0,0,0,0
+EST1251,Ingeniería Informática,Ingeniería,3,Oficial,272,14,3.6,1,0,42,16,8,2.95,3.9,3.425,0,0,0,0,0
+EST0246,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,280,16,3.3,1,0,55,27,14,3.55,2.55,3.05,0,0,0,0,0
+EST0731,Ingeniería Informática,Ingeniería,1,Privado,246,14,2.0,1,0,15,9,8,2.7,2.65,2.675,1,0,0,0,0
+EST0769,Psicología,Ciencias Sociales y Humanas,2,Oficial,314,18,2.6,1,0,26,12,5,2.8,1.6,2.2,1,1,0,0,0
+EST0269,Ingeniería Industrial,Ingeniería,3,Oficial,236,18,2.1,0,1,18,11,5,3.8,1.2,2.5,1,0,0,1,0
+EST0896,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,202,16,2.6,1,0,25,16,7,2.4,2.7,2.55,1,0,0,0,0
+EST1399,Ingeniería Industrial,Ingeniería,3,Oficial,220,18,2.3,0,1,32,10,6,1.65,3.4,2.525,1,0,1,0,0
+EST0291,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,278,17,4.2,1,0,87,46,23,4.5,4.3,4.4,0,0,0,0,0
+EST1211,Psicología,Ciencias Sociales y Humanas,1,Privado,203,16,2.0,0,1,1,0,0,1.9,1.85,1.875,1,1,0,0,1
+EST0330,Ingeniería Informática,Ingeniería,2,Oficial,333,15,4.2,1,0,49,26,16,4.6,4.2,4.4,0,0,0,0,0
+EST0986,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,301,14,4.4,1,0,60,30,12,3.7,4.25,3.975,0,0,0,0,0
+EST0713,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,301,16,4.2,1,0,58,28,16,3.95,4.2,4.075,0,0,0,0,0
+EST1348,Ingeniería Informática,Ingeniería,3,Oficial,278,14,3.2,1,0,34,17,12,2.75,2.4,2.575,1,0,0,0,0
+EST0457,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,258,16,2.8,0,1,25,12,3,2.15,3.1,2.625,1,0,0,0,1
+EST0872,Ingeniería Informática,Ingeniería,3,Oficial,356,18,3.0,1,0,40,21,14,3.0,2.65,2.825,1,0,0,0,0
+EST1347,Psicología,Ciencias Sociales y Humanas,4,Oficial,268,17,3.3,1,0,26,14,10,2.0,2.85,2.425,1,0,0,0,0
+EST0172,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,229,17,,1,0,60,29,18,5.0,2.6,3.8,0,0,0,0,0
+EST1407,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,308,18,4.4,1,0,77,28,15,4.8,5.0,4.9,0,0,0,0,0
+EST1200,Ingeniería Informática,Ingeniería,2,Oficial,365,14,4.3,1,0,24,11,7,4.4,3.7,4.050000000000001,0,0,0,0,0
+EST0832,Ingeniería Informática,Ingeniería,1,Oficial,197,16,1.8,0,1,24,16,11,1.7,1.85,1.775,1,0,0,1,1
+EST1219,Psicología,Ciencias Sociales y Humanas,3,Oficial,310,16,3.2,1,0,17,12,5,2.4,3.15,2.775,1,0,0,0,0
+EST0999,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,335,18,3.6,1,0,28,15,9,3.7,3.5,3.6,0,0,0,0,0
+EST1070,Psicología,Ciencias Sociales y Humanas,1,Privado,305,18,3.6,1,0,49,20,10,3.3,4.05,3.675,0,0,0,0,1
+EST0046,Ingeniería Industrial,Ingeniería,2,Oficial,309,15,3.0,1,0,26,11,4,2.5,3.9,3.2,0,0,0,0,0
+EST0773,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,286,17,3.8,1,0,63,31,17,3.35,3.5,3.425,0,0,0,0,0
+EST0581,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,306,14,4.6,1,0,55,22,11,5.0,5.0,5.0,0,0,0,0,0
+EST0326,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,341,17,4.5,1,0,53,25,7,5.0,4.55,4.775,0,0,0,0,0
+EST0356,Psicología,Ciencias Sociales y Humanas,2,Privado,347,16,4.3,1,0,74,36,14,3.9,4.1,4.0,0,0,0,0,1
+EST1003,Psicología,Ciencias Sociales y Humanas,1,Privado,287,17,3.8,1,0,34,19,9,4.0,4.75,4.375,0,0,0,0,0
+EST0953,Ingeniería Informática,Ingeniería,2,Oficial,324,14,4.0,1,0,58,22,9,3.95,4.35,4.15,0,0,0,0,0
+EST0223,Ingeniería Industrial,Ingeniería,4,Oficial,281,14,2.9,0,1,24,13,3,3.15,2.75,2.95,1,0,1,0,1
+EST1076,Psicología,Ciencias Sociales y Humanas,6,Oficial,234,16,4.5,1,0,42,25,13,4.7,3.9,4.3,0,0,0,0,0
+EST1014,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,296,16,3.4,1,0,40,21,14,3.65,4.2,3.925,0,0,0,0,0
+EST0788,Ingeniería Informática,Ingeniería,4,Oficial,306,16,3.4,1,0,54,24,7,2.7,3.8,3.25,0,0,0,0,1
+EST1316,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,296,14,3.8,1,0,48,25,15,4.5,3.35,3.925,0,0,0,0,0
+EST0785,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,321,17,4.2,1,0,50,23,14,4.25,4.65,4.45,0,0,0,0,0
+EST0849,Psicología,Ciencias Sociales y Humanas,2,Oficial,368,17,4.8,1,0,53,26,10,4.45,4.85,4.65,0,0,0,0,0
+EST0799,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,269,17,2.6,0,1,27,9,5,2.2,3.0,2.6,1,0,0,1,1
+EST1443,Psicología,Ciencias Sociales y Humanas,3,Oficial,221,16,2.4,1,0,27,9,4,2.45,1.2,1.8250000000000002,1,1,0,0,0
+EST0951,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,343,14,3.6,1,0,62,30,16,3.75,3.6,3.675,0,0,0,0,0
+EST0768,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,292,16,3.6,1,0,56,29,12,3.85,3.95,3.9000000000000004,0,0,0,0,0
+EST0955,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,294,18,3.6,1,0,32,16,9,3.55,3.75,3.65,0,0,0,0,0
+EST1177,Psicología,Ciencias Sociales y Humanas,3,Oficial,283,16,4.6,1,0,66,34,13,4.0,5.0,4.5,0,0,0,1,0
+EST0076,Ingeniería Informática,Ingeniería,4,Oficial,289,15,3.6,1,0,43,16,4,2.5,3.3,2.9,1,0,0,0,0
+EST0335,Ingeniería Informática,Ingeniería,1,Oficial,293,14,3.4,1,0,44,21,7,4.65,3.2,3.9250000000000003,0,0,0,0,0
+EST0645,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,247,14,3.5,1,0,48,29,16,3.45,2.55,3.0,0,0,0,1,0
+EST0916,Psicología,Ciencias Sociales y Humanas,3,Privado,320,18,4.2,1,0,62,32,12,4.05,3.8,3.925,0,0,0,0,0
+EST0431,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,318,18,4.2,1,0,46,28,14,5.0,4.05,4.525,0,0,0,0,0
+EST1247,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,304,15,3.3,1,0,68,31,16,3.15,1.4,2.275,1,0,0,0,0
+EST0379,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,285,15,2.8,0,1,21,9,2,3.4,3.1,3.25,0,0,0,1,0
+EST0748,Ingeniería Informática,Ingeniería,1,Privado,317,16,3.7,0,1,18,1,0,4.85,3.2,4.025,1,1,0,0,1
+EST0411,Ingeniería Industrial,Ingeniería,2,Oficial,308,15,3.4,1,0,38,21,11,2.25,3.45,2.85,1,0,0,0,0
+EST0289,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,297,14,3.9,1,0,47,28,15,4.85,3.4,4.125,0,0,0,0,0
+EST0499,Ingeniería Industrial,Ingeniería,3,Oficial,305,14,2.9,0,1,6,1,1,1.75,3.0,2.375,1,1,1,0,1
+EST0033,Ingeniería Industrial,Ingeniería,5,Oficial,238,14,2.5,0,1,52,27,12,3.2,2.65,2.925,1,0,0,1,0
+EST0602,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,270,16,3.5,0,1,49,29,14,3.5,2.05,2.775,1,0,1,1,0
+EST0182,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,280,15,3.1,1,0,38,19,13,3.05,3.15,3.0999999999999996,0,0,0,0,0
+EST0111,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,331,17,3.5,1,0,56,25,16,2.7,3.65,3.175,0,0,0,0,0
+EST1419,Ingeniería Informática,Ingeniería,1,Oficial,322,14,3.8,1,0,24,14,5,4.65,3.8,4.225,0,0,0,0,0
+EST0231,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,340,16,4.3,1,0,54,27,16,5.0,4.3,4.65,0,0,0,0,0
+EST1164,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,318,15,3.6,1,0,42,17,8,2.95,3.5,3.225,0,0,0,0,0
+EST1212,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,268,16,2.9,1,0,44,17,6,3.4,2.65,3.025,0,0,0,0,0
+EST0682,Ingeniería Informática,Ingeniería,2,Privado,264,15,3.2,1,0,41,17,9,3.55,4.25,3.9,0,0,0,0,0
+EST1176,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,263,15,2.6,1,0,24,8,3,2.45,3.85,3.1500000000000004,0,0,0,0,0
+EST0895,Ingeniería Informática,Ingeniería,1,Privado,272,17,2.0,0,1,33,18,13,2.75,1.85,2.3,1,0,1,1,1
+EST0495,Psicología,Ciencias Sociales y Humanas,3,Privado,283,15,2.8,0,1,21,8,3,3.6,3.7,3.6500000000000004,0,0,0,1,0
+EST1208,Ingeniería Industrial,Ingeniería,3,Oficial,250,16,2.9,1,0,31,16,12,3.55,3.5,3.525,0,0,0,0,0
+EST0631,Ingeniería Informática,Ingeniería,1,Privado,199,17,3.0,1,0,61,33,22,3.3,3.35,3.325,0,0,0,0,0
+EST0971,Ingeniería Informática,Ingeniería,2,Privado,299,16,4.2,1,0,70,30,16,5.0,3.65,4.325,0,0,0,0,0
+EST1363,Psicología,Ciencias Sociales y Humanas,3,Oficial,312,16,4.2,1,0,39,18,10,3.6,3.25,3.425,0,0,0,0,0
+EST0154,Psicología,Ciencias Sociales y Humanas,2,Privado,304,17,3.4,1,0,53,21,8,4.1,3.15,3.625,0,0,0,0,0
+EST0302,Ingeniería Informática,Ingeniería,1,Oficial,340,16,3.6,1,0,44,17,4,4.95,3.5,4.225,0,0,0,0,0
+EST0607,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,292,15,3.0,0,1,46,18,6,3.15,2.65,2.9,1,0,1,0,0
+EST1368,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,306,18,3.0,1,0,24,9,6,2.8,3.15,2.9749999999999996,1,0,0,0,0
+EST0100,Psicología,Ciencias Sociales y Humanas,2,Oficial,307,18,4.0,1,0,56,25,16,3.7,3.65,3.675,0,0,0,0,0
+EST1116,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,328,18,3.2,1,0,40,22,11,3.3,2.45,2.875,1,0,0,0,0
+EST0420,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,263,17,2.8,0,1,23,10,2,3.05,2.2,2.625,1,0,0,0,0
+EST0183,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,251,16,3.1,1,0,14,8,4,2.55,3.4,2.9749999999999996,1,0,0,0,0
+EST1415,Ingeniería Industrial,Ingeniería,3,Privado,313,15,4.1,1,0,41,23,13,5.0,3.35,4.175,0,0,0,0,0
+EST0286,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,260,16,2.8,1,0,44,20,11,2.65,2.85,2.75,1,0,0,1,1
+EST1285,Ingeniería Industrial,Ingeniería,2,Oficial,322,15,3.9,1,0,47,22,12,3.05,3.1,3.075,0,0,0,1,0
+EST1253,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,208,15,2.1,1,0,17,9,8,1.85,1.8,1.8250000000000002,1,1,0,0,0
+EST1181,Psicología,Ciencias Sociales y Humanas,5,Oficial,227,14,1.6,0,1,21,10,4,1.6,2.2,1.9000000000000001,1,1,0,0,1
+EST0187,Psicología,Ciencias Sociales y Humanas,3,Privado,270,15,3.1,1,0,31,19,8,2.3,2.9,2.5999999999999996,1,0,0,0,0
+EST0738,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,370,16,4.5,1,0,76,43,23,5.0,5.0,5.0,0,0,0,0,0
+EST0009,Ingeniería Industrial,Ingeniería,3,Privado,302,14,3.4,1,0,77,34,16,4.15,2.45,3.3000000000000003,0,0,0,0,0
+EST1237,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,324,16,3.8,1,0,64,26,12,4.15,3.95,4.050000000000001,0,0,0,1,0
+EST1147,Psicología,Ciencias Sociales y Humanas,2,Privado,301,15,3.2,1,0,36,19,6,2.75,3.7,3.225,0,0,0,0,0
+EST0970,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,295,14,3.5,1,0,33,18,6,2.85,2.6,2.725,1,0,0,0,0
+EST0301,Ingeniería Informática,Ingeniería,5,Privado,318,16,3.6,1,0,50,19,8,3.75,3.55,3.65,0,0,0,0,0
+EST0311,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,266,15,3.1,1,0,26,16,12,2.5,2.95,2.725,1,0,0,0,0
+EST0530,Psicología,Ciencias Sociales y Humanas,6,Oficial,391,17,3.8,1,0,42,22,10,3.8,3.35,3.575,0,0,0,1,0
+EST0722,Psicología,Ciencias Sociales y Humanas,1,Oficial,285,14,3.0,1,0,48,20,12,2.4,2.4,2.4,1,0,0,1,0
+EST0566,Psicología,Ciencias Sociales y Humanas,1,Oficial,311,16,3.8,1,0,44,19,11,4.1,4.45,4.275,0,0,0,0,0
+EST0957,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,302,16,2.9,1,0,45,26,13,2.6,3.85,3.225,0,0,0,0,0
+EST0854,Ingeniería Industrial,Ingeniería,1,Oficial,282,14,3.7,1,0,55,29,14,2.85,3.95,3.4000000000000004,0,0,0,0,0
+EST0151,Ingeniería Informática,Ingeniería,2,Privado,330,17,4.7,1,0,59,33,18,5.0,4.4,4.7,0,0,0,0,0
+EST0112,Psicología,Ciencias Sociales y Humanas,4,Privado,198,18,2.9,1,0,33,15,7,2.85,2.25,2.55,1,0,0,0,0
+EST1047,Psicología,Ciencias Sociales y Humanas,2,Oficial,372,18,4.4,1,0,41,19,10,5.0,3.95,4.475,0,0,0,0,0
+EST0603,Ingeniería Informática,Ingeniería,3,Oficial,324,17,3.4,1,0,51,29,13,3.5,3.9,3.7,0,0,0,0,0
+EST1174,Ingeniería Informática,Ingeniería,2,Oficial,334,15,4.7,1,0,77,39,14,4.55,5.0,4.775,0,0,0,0,0
+EST0298,Psicología,Ciencias Sociales y Humanas,3,Oficial,328,16,3.6,1,0,59,28,12,2.95,3.4,3.175,0,0,0,0,0
+EST0037,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,296,17,2.9,1,0,55,31,13,3.3,2.15,2.7249999999999996,1,0,0,0,0
+EST0509,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,246,16,3.3,1,0,36,16,9,3.15,3.5,3.325,0,0,0,0,0
+EST1002,Ingeniería Informática,Ingeniería,1,Oficial,338,14,3.5,0,1,57,35,9,2.9,3.45,3.175,0,0,0,1,0
+EST0060,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,292,16,3.0,1,0,54,29,12,2.25,3.45,2.85,1,0,0,0,0
+EST0048,Ingeniería Informática,Ingeniería,3,Privado,282,18,3.1,1,0,23,13,9,3.3,3.25,3.275,0,0,0,0,0
+EST0178,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,318,14,3.2,1,0,36,20,11,4.05,2.75,3.4,0,0,0,0,0
+EST0989,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,403,14,3.9,1,0,53,28,13,4.2,5.0,4.6,0,0,0,0,0
+EST0664,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,236,18,2.3,1,0,46,28,12,2.4,1.9,2.15,1,0,0,0,0
+EST1341,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,231,15,2.7,0,1,10,0,0,1.95,3.05,2.5,1,1,0,1,1
+EST0759,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,298,15,3.7,1,0,75,32,17,4.5,3.9,4.2,0,0,0,0,0
+EST0927,Ingeniería Informática,Ingeniería,3,Privado,180,17,2.1,1,0,23,14,5,1.7,2.05,1.875,1,0,0,0,0
+EST1418,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,218,18,3.0,1,0,52,32,13,2.6,2.5,2.55,1,0,0,0,0
+EST0521,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,319,16,4.2,1,0,76,38,19,3.5,4.05,3.775,0,0,0,0,0
+EST0171,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,287,17,2.6,1,0,23,13,5,2.95,1.8,2.375,1,0,0,0,0
+EST0835,Ingeniería Informática,Ingeniería,3,Oficial,260,17,2.9,1,0,49,26,12,3.25,1.9,2.575,1,0,0,0,0
+EST0818,Ingeniería Industrial,Ingeniería,1,Oficial,206,14,2.1,0,1,2,1,0,1.7,2.0,1.85,1,1,1,0,1
+EST0375,Psicología,Ciencias Sociales y Humanas,3,Oficial,199,16,3.0,1,0,36,15,10,4.05,2.55,3.3,0,0,0,0,0
+EST0487,Ingeniería Informática,Ingeniería,3,Oficial,332,15,3.4,1,0,55,28,14,4.35,4.1,4.225,0,0,0,0,0
+EST0441,Ingeniería Informática,Ingeniería,3,Oficial,318,18,3.6,1,0,70,37,21,3.6,2.85,3.225,0,0,0,0,0
+EST0681,Ingeniería Industrial,Ingeniería,2,Oficial,353,18,3.3,1,0,31,21,8,4.2,3.05,3.625,0,0,0,0,0
+EST0360,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,363,15,3.3,1,0,16,6,2,3.4,3.65,3.525,0,1,0,0,1
+EST0512,Ingeniería Industrial,Ingeniería,3,Oficial,317,14,3.6,1,0,46,22,7,3.0,5.0,4.0,0,0,0,0,0
+EST1034,Psicología,Ciencias Sociales y Humanas,1,Privado,248,15,2.4,1,0,23,14,5,2.25,3.65,2.95,1,0,0,0,0
+EST1352,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,290,17,3.8,1,0,87,45,20,3.5,4.0,3.75,0,0,0,0,0
+EST0525,Psicología,Ciencias Sociales y Humanas,2,Privado,357,15,3.3,1,0,46,22,13,3.3,3.65,3.4749999999999996,0,0,0,0,0
+EST0293,Psicología,Ciencias Sociales y Humanas,1,Privado,300,14,3.3,1,0,38,12,9,3.55,3.85,3.7,0,0,0,0,0
+EST1071,Psicología,Ciencias Sociales y Humanas,2,Oficial,232,16,3.4,1,0,33,15,6,3.15,3.9,3.525,0,0,0,0,0
+EST1403,Ingeniería Informática,Ingeniería,2,Oficial,279,16,3.0,1,0,43,26,14,2.0,2.9,2.45,1,0,0,0,0
+EST0416,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,254,18,3.2,1,0,32,18,8,2.55,3.9,3.2249999999999996,0,0,0,0,0
+EST0093,Psicología,Ciencias Sociales y Humanas,3,Oficial,194,18,3.3,1,0,47,25,14,2.25,2.75,2.5,1,0,0,0,0
+EST1271,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,316,15,3.8,1,0,53,26,13,3.05,4.05,3.55,0,0,0,0,1
+EST1224,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,236,15,2.9,1,0,40,23,17,3.5,3.1,3.3,0,0,0,0,0
+EST0839,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,355,17,3.6,1,0,45,17,12,4.05,2.8,3.425,0,0,0,0,0
+EST0490,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,277,18,3.6,1,0,32,14,6,3.25,2.9,3.075,0,0,0,0,0
+EST1028,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,300,15,,1,0,35,16,8,1.75,2.45,2.1,1,0,0,1,0
+EST0127,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,296,15,3.8,1,0,47,24,16,3.8,4.45,4.125,0,0,0,0,0
+EST1276,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,311,18,2.7,1,0,29,15,7,2.85,2.15,2.5,1,0,0,0,0
+EST1420,Psicología,Ciencias Sociales y Humanas,1,Oficial,303,14,3.3,1,0,59,37,19,3.45,3.7,3.575,0,0,0,0,0
+EST0812,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,297,18,3.1,1,0,41,18,5,1.95,3.35,2.65,1,0,0,0,0
+EST0539,Ingeniería Informática,Ingeniería,1,Privado,310,17,3.7,1,0,41,19,9,3.75,4.0,3.875,0,0,0,0,1
+EST0977,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,291,15,3.9,1,0,54,27,14,2.8,3.55,3.175,0,0,0,0,0
+EST0448,Psicología,Ciencias Sociales y Humanas,4,Oficial,256,17,2.4,1,0,20,8,5,3.5,2.7,3.1,0,0,0,0,0
+EST1057,Psicología,Ciencias Sociales y Humanas,5,Privado,221,16,2.7,1,0,39,16,6,2.8,3.2,3.0,0,0,0,0,0
+EST0513,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,294,17,4.2,1,0,67,36,13,4.35,4.8,4.574999999999999,0,0,0,0,0
+EST0121,Ingeniería Industrial,Ingeniería,3,Oficial,253,18,3.7,1,0,71,35,25,3.85,3.4,3.625,0,0,0,0,0
+EST0666,Ingeniería Informática,Ingeniería,3,Privado,304,17,4.4,1,0,52,22,9,4.5,4.4,4.45,0,0,0,0,0
+EST0438,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,290,15,3.8,1,0,70,37,19,3.85,2.85,3.35,0,0,0,0,0
+EST1266,Ingeniería Industrial,Ingeniería,6,Oficial,339,17,3.8,1,0,52,30,11,4.25,2.8,3.525,0,0,0,0,0
+EST0282,Ingeniería Industrial,Ingeniería,5,Oficial,310,14,3.9,1,0,56,21,9,5.0,2.75,3.875,0,0,0,0,1
+EST0128,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,321,15,3.3,1,0,43,25,11,3.05,2.9,2.9749999999999996,1,0,0,0,0
+EST0613,Psicología,Ciencias Sociales y Humanas,3,Oficial,227,14,3.7,1,0,41,20,12,2.45,3.5,2.975,1,0,0,0,0
+EST0062,Ingeniería Informática,Ingeniería,2,Oficial,293,17,3.2,1,0,43,28,16,3.5,3.15,3.325,0,0,0,0,0
+EST0662,Ingeniería Informática,Ingeniería,3,Privado,352,16,3.8,0,1,53,25,14,4.1,3.95,4.025,0,0,0,0,0
+EST0969,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,294,14,2.9,0,1,10,1,1,3.8,2.5,3.15,0,1,0,0,0
+EST1335,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,266,15,4.4,0,1,77,36,21,3.6,4.0,3.8,0,0,0,0,1
+EST1136,Psicología,Ciencias Sociales y Humanas,1,Privado,344,18,3.4,1,0,40,17,11,3.75,3.85,3.8,0,0,0,1,0
+EST1083,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,260,16,3.4,1,0,50,28,12,4.4,2.75,3.575,0,0,0,0,0
+EST0422,Psicología,Ciencias Sociales y Humanas,1,Oficial,242,14,3.2,1,0,44,22,11,3.0,2.65,2.825,1,0,0,0,0
+EST0557,Ingeniería Industrial,Ingeniería,2,Oficial,221,18,4.0,1,0,48,24,14,3.95,4.25,4.1,0,0,0,0,0
+EST0120,Ingeniería Informática,Ingeniería,2,Oficial,285,18,2.9,0,1,9,1,0,3.05,3.7,3.375,1,1,1,0,0
+EST0391,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,248,18,3.3,1,0,39,18,8,3.4,3.45,3.425,0,0,0,0,0
+EST0770,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,232,14,2.5,0,1,10,5,3,2.25,1.65,1.95,1,1,1,0,0
+EST1410,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,452,17,4.6,1,0,82,39,12,4.1,4.25,4.175,0,0,0,0,0
+EST0919,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,328,17,4.2,1,0,71,39,16,4.5,4.5,4.5,0,0,0,0,0
+EST1048,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,315,14,3.9,1,0,64,30,14,4.3,3.25,3.775,0,0,0,0,0
+EST0140,Psicología,Ciencias Sociales y Humanas,4,Oficial,218,16,3.3,1,0,45,24,8,2.95,2.3,2.625,1,0,0,0,0
+EST0250,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,263,17,4.0,1,0,41,20,6,4.9,3.5,4.2,0,0,0,0,0
+EST0670,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,307,15,2.7,1,0,18,8,3,3.2,2.8,3.0,0,0,0,0,0
+EST1118,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,238,15,3.8,1,0,58,27,14,3.85,3.6,3.725,0,0,0,0,0
+EST0693,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,260,14,3.9,1,0,50,21,10,3.6,4.65,4.125,0,0,0,1,0
+EST0945,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,229,18,2.2,1,0,25,16,8,1.55,2.3,1.9249999999999998,1,0,0,0,0
+EST0974,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,320,17,4.3,0,1,28,1,0,3.65,3.75,3.7,1,1,0,1,0
+EST1249,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,345,15,3.3,1,0,29,18,9,3.55,2.95,3.25,0,0,0,0,0
+EST1338,Psicología,Ciencias Sociales y Humanas,2,Privado,326,18,3.7,1,0,63,41,20,3.35,4.95,4.15,0,0,0,0,0
+EST0907,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,245,14,2.9,0,1,21,6,4,2.85,3.4,3.125,0,1,0,1,1
+EST0719,Psicología,Ciencias Sociales y Humanas,3,Privado,194,18,3.1,1,0,36,21,15,2.05,2.25,2.15,1,0,0,1,0
+EST1272,Psicología,Ciencias Sociales y Humanas,4,Oficial,316,16,4.0,1,0,54,31,15,3.45,5.0,4.225,0,0,0,0,0
+EST0340,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,345,18,4.1,1,0,51,17,7,4.1,4.7,4.4,0,0,0,0,0
+EST0209,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,257,16,3.2,1,0,69,37,19,3.9,2.75,3.325,0,0,0,0,0
+EST1190,Psicología,Ciencias Sociales y Humanas,2,Privado,266,18,2.4,0,1,11,2,1,2.2,2.65,2.425,1,1,0,1,0
+EST1087,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,305,16,3.6,1,0,54,22,12,3.65,3.7,3.675,0,0,0,0,0
+EST0078,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,284,16,2.8,1,0,17,7,3,3.4,1.7,2.55,1,1,0,0,0
+EST0741,Ingeniería Industrial,Ingeniería,6,Oficial,307,16,3.0,1,0,26,14,7,3.8,3.45,3.625,0,0,0,0,0
+EST0968,Psicología,Ciencias Sociales y Humanas,1,Privado,255,15,3.3,1,0,46,24,9,2.65,3.45,3.05,0,0,0,0,0
+EST0771,Psicología,Ciencias Sociales y Humanas,1,Oficial,302,16,3.0,1,0,21,8,6,3.95,3.4,3.675,0,0,0,0,0
+EST0734,Psicología,Ciencias Sociales y Humanas,1,Privado,336,15,4.2,0,1,56,36,16,3.95,3.8,3.875,0,0,1,0,1
+EST1337,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,357,15,3.9,1,0,43,23,11,3.6,4.1,3.8499999999999996,0,0,0,0,0
+EST0651,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,312,16,3.8,1,0,62,25,15,3.6,2.85,3.225,0,0,0,0,0
+EST0126,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,344,17,3.2,1,0,21,11,3,3.05,3.7,3.375,0,0,0,0,0
+EST1104,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,322,14,3.6,1,0,59,30,10,3.65,3.1,3.375,0,0,0,0,0
+EST0958,Ingeniería Informática,Ingeniería,3,Privado,211,16,2.8,1,0,31,16,10,2.25,3.2,2.725,1,0,0,0,0
+EST0413,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,252,18,3.2,1,0,32,14,7,2.3,3.25,2.775,1,0,0,0,0
+EST1121,Ingeniería Industrial,Ingeniería,3,Privado,331,15,3.5,1,0,28,12,4,3.5,3.45,3.475,0,0,0,0,0
+EST0153,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,246,18,2.4,0,1,14,6,4,2.55,2.6,2.575,1,1,0,0,1
+EST1205,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,290,15,3.0,1,0,32,10,4,2.5,3.7,3.1,0,0,0,1,0
+EST0757,Ingeniería Industrial,Ingeniería,2,Privado,269,16,3.5,1,0,37,20,8,3.55,3.8,3.675,0,0,0,0,0
+EST0965,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,356,15,4.2,1,0,62,33,17,5.0,4.1,4.55,0,0,0,0,0
+EST0004,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,290,14,2.7,1,0,50,25,13,1.5,2.6,2.05,1,0,0,0,0
+EST0258,Ingeniería Informática,Ingeniería,2,Oficial,307,18,4.1,1,0,53,21,7,4.05,4.3,4.175,0,0,0,0,0
+EST0756,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,348,14,3.1,1,0,42,21,6,2.75,3.5,3.125,0,0,0,0,0
+EST0946,Ingeniería Industrial,Ingeniería,3,Oficial,339,15,3.7,1,0,44,18,8,3.9,4.65,4.275,0,0,0,0,0
+EST0831,Ingeniería Informática,Ingeniería,3,Privado,269,14,2.9,1,0,32,16,7,4.65,2.2,3.4250000000000003,0,0,0,0,0
+EST0944,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,270,14,2.6,1,0,10,4,3,2.35,2.35,2.35,1,1,0,0,0
+EST0636,Ingeniería Industrial,Ingeniería,3,Oficial,328,17,4.1,1,0,44,20,12,3.55,4.85,4.199999999999999,0,0,0,0,0
+EST0192,Psicología,Ciencias Sociales y Humanas,1,Oficial,308,16,,1,0,57,31,12,4.1,4.2,4.15,0,0,0,0,0
+EST1094,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,367,14,3.7,1,0,47,21,8,3.3,3.65,3.4749999999999996,0,0,0,0,0
+EST0028,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,289,14,2.8,1,0,35,19,9,2.95,2.7,2.825,1,0,0,0,0
+EST1109,Ingeniería Industrial,Ingeniería,2,Oficial,269,15,2.2,1,0,30,12,6,1.55,2.1,1.8250000000000002,1,1,0,0,0
+EST0040,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,299,14,3.4,1,0,42,20,10,3.1,2.3,2.7,1,0,0,0,0
+EST1095,Ingeniería Informática,Ingeniería,3,Oficial,298,14,3.8,1,0,49,30,18,3.45,3.8,3.625,0,0,0,0,0
+EST0635,Ingeniería Industrial,Ingeniería,5,Oficial,353,14,4.2,1,0,41,24,12,3.9,4.55,4.225,0,0,0,0,0
+EST0038,Ingeniería Informática,Ingeniería,1,Privado,334,18,3.6,1,0,54,26,10,3.85,3.3,3.575,0,0,0,0,0
+EST0345,Ingeniería Industrial,Ingeniería,4,Oficial,298,14,3.9,1,0,48,23,10,3.55,3.65,3.5999999999999996,0,0,0,0,0
+EST1402,Ingeniería Informática,Ingeniería,3,Oficial,376,17,3.7,1,0,47,23,14,1.9,4.8,3.3499999999999996,0,0,0,0,0
+EST0010,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,319,17,3.6,0,1,54,30,16,3.85,3.85,3.85,0,0,0,0,0
+EST1110,Ingeniería Informática,Ingeniería,3,Privado,292,18,3.2,1,0,16,11,6,3.0,4.15,3.575,0,0,0,1,0
+EST1101,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,245,14,2.7,1,0,46,25,15,3.45,2.0,2.725,1,0,0,0,0
+EST0961,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,266,14,4.2,1,0,51,27,14,4.3,4.25,4.275,0,0,0,0,0
+EST0005,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,292,17,3.5,1,0,54,26,13,3.55,3.9,3.7249999999999996,0,0,0,0,0
+EST0408,Ingeniería Industrial,Ingeniería,1,Oficial,261,15,3.3,1,0,46,19,10,3.7,3.8,3.75,0,0,0,0,0
+EST0878,Ingeniería Informática,Ingeniería,2,Oficial,206,18,2.8,1,0,51,24,11,1.8,2.5,2.15,1,0,0,0,0
+EST0884,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,300,16,4.5,1,0,60,27,19,5.0,4.55,4.775,0,0,0,0,1
+EST1194,Psicología,Ciencias Sociales y Humanas,3,Privado,255,14,,0,1,14,7,3,2.9,2.2,2.55,1,1,1,0,1
+EST0308,Psicología,Ciencias Sociales y Humanas,3,Privado,267,15,2.6,1,0,28,9,3,1.95,2.1,2.025,1,1,0,0,0
+EST0372,Ingeniería Industrial,Ingeniería,2,Privado,310,17,3.6,1,0,62,31,16,4.05,4.1,4.074999999999999,0,0,0,0,0
+EST0834,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,338,16,4.4,1,0,70,39,14,3.9,4.05,3.9749999999999996,0,0,0,0,0
+EST0196,Ingeniería Industrial,Ingeniería,2,Privado,319,17,3.5,1,0,20,13,7,3.45,3.25,3.35,0,0,0,0,0
+EST0176,Ingeniería Industrial,Ingeniería,2,Oficial,220,16,2.7,0,1,21,6,0,2.4,1.65,2.025,1,1,0,0,0
+EST0669,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,305,17,3.9,1,0,71,40,25,2.55,4.2,3.375,0,0,0,0,0
+EST1239,Ingeniería Informática,Ingeniería,2,Oficial,226,15,2.6,1,0,47,23,13,1.9,3.45,2.675,1,0,0,0,1
+EST1310,Ingeniería Informática,Ingeniería,3,Oficial,273,17,2.8,0,1,34,18,8,3.75,3.1,3.425,0,0,1,0,0
+EST1128,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,247,14,2.5,0,1,11,1,0,2.75,2.5,2.625,1,1,0,0,0
+EST0198,Ingeniería Industrial,Ingeniería,4,Privado,282,17,3.1,1,0,49,29,15,3.9,3.3,3.5999999999999996,0,0,0,0,0
+EST0045,Ingeniería Informática,Ingeniería,5,Privado,273,18,3.1,1,0,47,28,13,2.5,2.8,2.65,1,0,0,1,0
+EST0675,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,235,14,2.7,1,0,43,24,10,1.4,2.85,2.125,1,0,0,0,0
+EST0407,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,325,16,4.7,1,0,50,20,12,4.3,4.25,4.275,0,0,0,0,0
+EST0445,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,309,15,3.2,1,0,51,27,15,3.15,3.4,3.275,0,0,0,0,0
+EST0739,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,382,18,5.0,1,0,62,31,17,5.0,5.0,5.0,0,0,0,0,0
+EST1225,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,238,15,2.4,0,1,27,15,6,2.2,2.0,2.1,1,0,1,1,1
+EST0562,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,312,15,3.1,1,0,38,21,17,3.65,2.75,3.2,0,0,0,0,1
+EST0288,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,266,14,3.1,0,1,23,12,8,2.95,3.1,3.0250000000000004,0,0,0,1,1
+EST1084,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,248,14,2.3,0,1,17,6,2,1.45,2.55,2.0,1,1,1,0,0
+EST1386,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,293,14,4.0,1,0,75,45,21,3.75,3.9,3.825,0,0,0,0,0
+EST1142,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,300,14,2.6,1,0,14,5,2,1.9,2.85,2.375,1,1,0,1,0
+EST0271,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,334,18,3.2,0,1,70,32,14,2.9,2.25,2.575,1,0,1,0,0
+EST1165,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,281,17,3.5,1,0,33,19,9,4.35,4.55,4.449999999999999,0,0,0,0,0
+EST0483,Ingeniería Informática,Ingeniería,6,Oficial,294,16,3.1,1,0,8,6,2,4.15,3.35,3.75,0,1,0,0,0
+EST0746,Ingeniería Industrial,Ingeniería,2,Privado,306,17,,1,0,51,22,9,3.3,3.15,3.2249999999999996,0,0,0,0,0
+EST0978,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,323,17,4.3,1,0,58,25,15,3.35,4.2,3.7750000000000004,0,0,0,0,0
+EST1009,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,328,16,3.0,1,0,65,34,17,3.05,2.4,2.7249999999999996,1,0,0,0,0
+EST0735,Psicología,Ciencias Sociales y Humanas,3,Privado,268,18,3.6,1,0,44,21,10,2.75,4.1,3.425,0,0,0,0,0
+EST0629,Ingeniería Industrial,Ingeniería,3,Oficial,256,15,3.4,1,0,44,18,11,2.35,3.1,2.725,1,0,0,0,0
+EST0658,Ingeniería Industrial,Ingeniería,1,Oficial,297,15,3.0,1,0,47,22,12,3.3,3.1,3.2,0,0,0,0,0
+EST0190,Ingeniería Informática,Ingeniería,1,Oficial,299,16,3.5,1,0,44,19,12,3.6,4.45,4.025,0,0,0,0,0
+EST0283,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,316,14,4.5,1,0,59,35,13,4.5,4.35,4.425,0,0,0,0,0
+EST0888,Ingeniería Informática,Ingeniería,4,Privado,280,16,3.6,1,0,58,23,18,3.9,3.45,3.675,0,0,0,0,1
+EST0569,Ingeniería Industrial,Ingeniería,4,Oficial,313,14,3.8,1,0,44,22,14,4.25,4.25,4.25,0,0,0,0,0
+EST0134,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,358,17,3.6,1,0,34,19,10,3.15,3.45,3.3,0,0,0,0,0
+EST0815,Psicología,Ciencias Sociales y Humanas,5,Privado,259,17,3.0,1,0,26,14,4,3.1,3.25,3.175,0,0,0,0,0
+EST1043,Ingeniería Informática,Ingeniería,3,Privado,271,17,2.1,1,0,20,6,3,0.8,2.0,1.4,1,1,0,0,0
+EST0361,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,258,17,3.5,1,0,40,20,12,4.15,2.95,3.5500000000000003,0,0,0,0,0
+EST0612,Psicología,Ciencias Sociales y Humanas,5,Oficial,313,15,3.4,1,0,28,13,3,3.85,4.1,3.9749999999999996,0,0,0,0,0
+EST0184,Ingeniería Informática,Ingeniería,3,Oficial,308,14,2.7,1,0,32,15,5,1.95,2.35,2.15,1,0,0,0,0
+EST1232,Ingeniería Informática,Ingeniería,3,Oficial,339,16,3.7,1,0,29,18,7,3.35,4.05,3.7,0,0,0,0,0
+EST0057,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,284,17,3.5,0,1,43,22,15,3.6,4.35,3.9749999999999996,0,0,1,1,0
+EST1160,Ingeniería Industrial,Ingeniería,2,Privado,321,14,3.6,1,0,54,30,19,4.0,4.6,4.3,0,0,0,0,0
+EST0287,Ingeniería Informática,Ingeniería,3,Oficial,366,14,4.1,1,0,75,35,18,3.5,3.55,3.525,0,0,0,0,0
+EST0466,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,266,16,3.1,1,0,43,24,10,4.15,4.3,4.225,0,0,0,0,0
+EST0808,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,354,17,2.9,1,0,31,16,8,2.65,1.45,2.05,1,0,0,0,0
+EST0011,Ingeniería Informática,Ingeniería,4,Privado,316,16,3.6,1,0,26,15,11,3.55,3.45,3.5,0,0,0,0,0
+EST0589,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,259,14,3.0,0,1,25,14,7,2.45,4.1,3.275,0,0,1,0,0
+EST1091,Trabajo Social,Ciencias Sociales y Humanas,5,Privado,279,15,4.0,1,0,65,35,20,4.9,3.85,4.375,0,0,0,0,0
+EST0911,Ingeniería Informática,Ingeniería,4,Privado,305,14,3.4,1,0,50,24,14,3.05,3.8,3.425,0,0,0,0,0
+EST1257,Ingeniería Informática,Ingeniería,2,Oficial,262,15,3.4,0,1,30,17,9,3.0,2.7,2.85,1,0,0,0,1
+EST0529,Ingeniería Industrial,Ingeniería,2,Privado,230,17,3.0,0,1,7,0,0,3.9,2.85,3.375,1,1,0,0,0
+EST0940,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,283,14,3.4,1,0,45,26,19,3.5,3.75,3.625,0,0,0,0,0
+EST1370,Psicología,Ciencias Sociales y Humanas,1,Privado,254,14,3.7,1,0,59,33,15,3.55,3.75,3.65,0,0,0,0,0
+EST0252,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,309,17,3.3,1,0,56,31,13,3.7,2.85,3.2750000000000004,0,0,0,0,0
+EST0351,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,232,18,2.6,0,1,38,7,0,2.3,2.95,2.625,1,1,0,0,0
+EST0071,Ingeniería Informática,Ingeniería,2,Oficial,298,16,3.0,1,0,29,17,8,3.2,3.55,3.375,0,0,0,1,1
+EST1302,Ingeniería Informática,Ingeniería,2,Oficial,223,14,2.9,1,0,30,20,9,2.45,2.95,2.7,1,0,0,0,0
+EST0480,Ingeniería Industrial,Ingeniería,5,Privado,245,15,,1,0,19,7,4,0.05,0.8,0.42500000000000004,1,1,0,0,0
+EST0728,Ingeniería Industrial,Ingeniería,3,Privado,289,18,4.0,1,0,41,22,13,4.85,3.25,4.05,0,0,0,0,0
+EST0374,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,263,14,2.8,0,1,24,9,3,2.45,2.45,2.45,1,1,0,1,1
+EST1080,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,282,15,3.3,1,0,13,8,5,3.6,3.85,3.725,0,0,0,0,0
+EST0481,Ingeniería Industrial,Ingeniería,3,Privado,261,14,3.3,1,0,36,16,9,3.55,3.9,3.7249999999999996,0,0,0,1,0
+EST0446,Psicología,Ciencias Sociales y Humanas,3,Oficial,286,14,3.0,1,0,25,12,10,3.25,2.5,2.875,1,0,0,0,0
+EST1017,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,288,16,3.8,0,1,40,19,9,2.65,3.0,2.825,1,0,0,0,1
+EST0802,Ingeniería Informática,Ingeniería,1,Privado,268,16,3.3,1,0,19,12,6,2.85,4.05,3.45,0,0,0,0,0
+EST1138,Ingeniería Informática,Ingeniería,2,Oficial,285,17,3.4,1,0,52,27,17,3.85,3.55,3.7,0,0,0,0,0
+EST0419,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,311,18,3.5,1,0,47,19,11,3.15,3.4,3.275,0,0,0,0,0
+EST1373,Ingeniería Industrial,Ingeniería,2,Oficial,295,18,3.5,1,0,72,38,19,4.35,3.15,3.75,0,0,0,0,0
+EST1168,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,279,14,2.4,1,0,28,10,7,1.85,1.7,1.775,1,1,0,0,0
+EST1179,Psicología,Ciencias Sociales y Humanas,3,Oficial,371,15,4.9,1,0,59,26,9,5.0,5.0,5.0,0,0,0,0,0
+EST1061,Psicología,Ciencias Sociales y Humanas,4,Oficial,261,16,3.3,1,0,51,29,17,3.9,2.6,3.25,0,0,0,0,0
+EST1311,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,261,14,3.1,0,1,42,18,10,2.2,2.8,2.5,1,0,0,0,0
+EST0006,Psicología,Ciencias Sociales y Humanas,1,Oficial,281,18,3.4,0,1,46,24,10,2.2,3.5,2.85,1,0,0,0,1
+EST0331,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,332,15,3.8,1,0,40,22,7,3.45,4.2,3.825,0,0,0,0,1
+EST0139,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,235,16,3.1,1,0,37,20,8,3.8,2.95,3.375,0,0,0,0,0
+EST1380,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,214,14,2.1,0,1,18,10,4,1.65,2.45,2.05,1,1,1,0,1
+EST1277,Ingeniería Informática,Ingeniería,2,Privado,329,14,4.1,1,0,60,33,16,4.05,4.15,4.1,0,0,0,0,0
+EST1365,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,355,16,3.5,1,0,43,26,8,3.2,3.2,3.2,0,0,0,0,0
+EST0960,Ingeniería Industrial,Ingeniería,2,Privado,247,15,2.6,1,0,42,23,10,3.25,2.7,2.975,1,0,0,0,0
+EST0548,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,325,14,3.0,1,0,48,21,11,2.05,2.7,2.375,1,0,0,0,0
+EST1387,Ingeniería Industrial,Ingeniería,2,Oficial,262,18,3.8,1,0,48,22,10,3.75,3.55,3.65,0,0,0,0,1
+EST0066,Psicología,Ciencias Sociales y Humanas,4,Oficial,294,17,3.4,1,0,61,23,14,3.0,3.85,3.425,0,0,0,0,0
+EST0070,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,302,18,3.7,1,0,26,16,8,4.6,3.5,4.05,0,0,0,0,0
+EST0454,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,315,15,2.5,1,0,16,10,4,1.9,1.55,1.725,1,1,0,0,0
+EST1114,Psicología,Ciencias Sociales y Humanas,3,Privado,250,15,2.8,1,0,31,14,9,2.5,1.9,2.2,1,0,0,0,0
+EST0089,Ingeniería Informática,Ingeniería,3,Oficial,405,16,,1,0,47,21,10,4.15,4.85,4.5,0,0,0,0,0
+EST0116,Ingeniería Industrial,Ingeniería,3,Oficial,296,14,3.4,1,0,32,15,9,3.65,2.25,2.95,1,0,0,0,0
+EST1381,Ingeniería Informática,Ingeniería,2,Oficial,279,18,3.2,1,0,42,21,12,3.15,3.6,3.375,0,0,0,0,0
+EST1304,Ingeniería Informática,Ingeniería,2,Oficial,180,16,2.4,1,0,30,17,8,3.4,1.5,2.45,1,0,0,0,0
+EST0175,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,288,16,3.0,1,0,12,3,1,2.9,2.45,2.675,1,1,0,0,0
+EST1044,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,267,14,3.2,1,0,34,21,8,2.95,3.05,3.0,0,0,0,0,0
+EST0870,Ingeniería Industrial,Ingeniería,3,Privado,338,15,4.4,1,0,65,37,18,4.05,5.0,4.525,0,0,0,0,0
+EST1233,Psicología,Ciencias Sociales y Humanas,2,Oficial,315,18,3.7,1,0,47,21,10,5.0,3.7,4.35,0,0,0,0,0
+EST0079,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,237,18,2.6,0,1,35,18,5,1.4,3.85,2.625,1,0,0,1,0
+EST0563,Psicología,Ciencias Sociales y Humanas,3,Privado,296,14,3.1,1,0,12,5,3,4.15,4.1,4.125,0,1,0,0,0
+EST0865,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,335,16,4.0,1,0,52,22,15,3.2,4.4,3.8000000000000003,0,0,0,0,0
+EST1234,Psicología,Ciencias Sociales y Humanas,2,Privado,290,18,,1,0,51,20,5,3.4,2.35,2.875,1,0,0,0,0
+EST0259,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,344,15,4.6,1,0,64,27,15,5.0,4.55,4.775,0,0,0,0,0
+EST0195,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,222,18,2.2,0,1,16,6,4,1.1,2.75,1.925,1,1,0,1,0
+EST1332,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,328,14,,0,1,18,8,0,4.1,3.6,3.8499999999999996,1,0,0,0,1
+EST0873,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,256,14,3.0,1,0,35,20,9,2.75,3.5,3.125,0,0,0,0,0
+EST0833,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,233,14,2.3,1,0,33,15,10,2.15,2.65,2.4,1,0,0,0,0
+EST1261,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,290,15,3.8,1,0,39,20,11,3.6,4.25,3.925,0,0,0,0,0
+EST0353,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,336,18,3.5,1,0,49,28,11,3.4,3.55,3.4749999999999996,0,0,0,0,0
+EST0186,Ingeniería Industrial,Ingeniería,1,Oficial,327,18,4.2,1,0,44,25,15,3.8,4.05,3.925,0,0,0,1,0
+EST1113,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,289,15,2.9,1,0,28,13,8,3.45,3.1,3.2750000000000004,0,0,0,0,0
+EST0779,Ingeniería Informática,Ingeniería,1,Oficial,301,17,2.9,1,0,32,13,6,3.25,2.6,2.925,1,0,0,0,0
+EST1135,Ingeniería Informática,Ingeniería,2,Oficial,255,15,2.2,0,1,10,6,2,1.4,2.7,2.05,1,1,0,1,0
+EST1216,Psicología,Ciencias Sociales y Humanas,2,Oficial,288,14,3.9,1,0,50,27,13,4.15,3.45,3.8000000000000003,0,0,0,0,0
+EST0590,Ingeniería Informática,Ingeniería,1,Oficial,241,16,3.0,0,1,18,7,2,3.2,2.85,3.0250000000000004,0,1,1,0,1
+EST0694,Psicología,Ciencias Sociales y Humanas,4,Privado,281,17,3.6,1,0,37,15,8,3.9,4.3,4.1,0,0,0,0,0
+EST0355,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,270,18,3.1,1,0,34,18,5,3.4,3.5,3.45,0,0,0,0,0
+EST0732,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,323,15,4.6,1,0,48,19,9,4.75,5.0,4.875,0,0,0,0,0
+EST0683,Ingeniería Industrial,Ingeniería,1,Oficial,294,17,3.0,1,0,27,10,4,2.3,2.1,2.2,1,1,0,0,0
+EST0845,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,324,15,3.6,1,0,20,9,6,3.35,2.85,3.1,0,0,0,0,0
+EST0792,Psicología,Ciencias Sociales y Humanas,2,Privado,335,16,4.5,1,0,56,30,14,5.0,4.95,4.975,0,0,0,0,0
+EST1148,Ingeniería Industrial,Ingeniería,1,Oficial,288,14,3.6,1,0,36,19,9,3.7,3.65,3.675,0,0,0,0,0
+EST0433,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,333,16,3.8,1,0,54,27,13,3.35,3.8,3.575,0,0,0,0,0
+EST1447,Ingeniería Informática,Ingeniería,2,Privado,363,18,4.2,1,0,78,45,21,4.15,4.75,4.45,0,0,0,0,0
+EST0222,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,246,15,3.4,1,0,35,19,9,2.7,1.6,2.1500000000000004,1,0,0,0,0
+EST1324,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,278,16,3.7,1,0,58,29,14,4.3,3.05,3.675,0,0,0,0,0
+EST1312,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,277,14,2.8,1,0,29,15,5,2.5,3.5,3.0,0,0,0,0,0
+EST0395,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,258,14,3.4,1,0,19,11,7,2.35,3.45,2.9000000000000004,1,0,0,0,0
+EST0749,Ingeniería Industrial,Ingeniería,3,Oficial,314,16,4.1,1,0,80,35,22,4.55,3.15,3.8499999999999996,0,0,0,0,0
+EST0593,Psicología,Ciencias Sociales y Humanas,3,Privado,400,18,4.3,1,0,40,15,8,3.9,4.25,4.075,0,0,0,0,0
+EST0574,Ingeniería Informática,Ingeniería,1,Privado,283,16,3.4,1,0,56,27,12,3.45,4.6,4.025,0,0,0,0,0
+EST0781,Psicología,Ciencias Sociales y Humanas,2,Privado,351,18,3.6,1,0,59,31,17,4.15,2.6,3.375,0,0,0,0,0
+EST0910,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,322,18,4.4,1,0,52,19,11,4.25,5.0,4.625,0,0,0,0,0
+EST0150,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,249,18,3.6,1,0,43,26,9,3.4,3.6,3.5,0,0,0,0,0
+EST0346,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,273,14,3.0,1,0,21,8,4,2.3,3.9,3.0999999999999996,0,0,0,0,0
+EST0553,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,312,16,,0,1,25,11,7,2.55,1.4,1.9749999999999999,1,1,0,0,0
+EST0561,Ingeniería Industrial,Ingeniería,2,Privado,349,16,3.8,1,0,35,11,7,3.9,4.0,3.95,0,0,0,0,0
+EST0022,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,272,14,2.1,0,1,12,6,5,2.25,2.15,2.2,1,1,1,0,0
+EST0067,Psicología,Ciencias Sociales y Humanas,4,Oficial,333,16,3.8,1,0,40,25,14,3.4,3.3,3.3499999999999996,0,0,0,0,0
+EST1218,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,347,14,3.7,1,0,52,22,11,3.35,2.0,2.675,1,0,0,0,0
+EST0273,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,291,15,3.9,1,0,57,25,11,5.0,3.05,4.025,0,0,0,0,0
+EST1291,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,343,15,3.3,1,0,42,23,12,3.45,3.9,3.675,0,0,0,0,0
+EST0897,Psicología,Ciencias Sociales y Humanas,3,Privado,332,16,3.5,1,0,33,17,8,2.95,3.45,3.2,0,0,0,0,0
+EST0193,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,292,15,,1,0,18,7,4,3.6,3.2,3.4000000000000004,0,1,0,0,0
+EST0425,Psicología,Ciencias Sociales y Humanas,2,Oficial,322,17,3.6,0,1,17,2,0,2.45,3.25,2.85,1,1,0,0,1
+EST0583,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,297,14,2.8,1,0,28,10,5,2.75,2.2,2.475,1,1,0,0,0
+EST0697,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,391,16,4.0,1,0,40,20,12,4.55,3.9,4.225,0,0,0,0,0
+EST0606,Ingeniería Informática,Ingeniería,2,Privado,294,17,3.0,1,0,28,12,6,2.55,4.0,3.275,0,0,0,0,0
+EST0737,Ingeniería Informática,Ingeniería,2,Oficial,275,18,3.4,0,1,39,19,8,4.0,2.75,3.375,0,0,1,0,1
+EST0137,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,253,16,2.2,0,1,8,2,0,2.65,1.1,1.875,1,1,0,0,1
+EST0135,Psicología,Ciencias Sociales y Humanas,2,Privado,251,15,2.4,1,0,25,7,2,3.0,2.3,2.65,1,1,0,0,0
+EST0148,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,287,17,2.9,1,0,15,9,1,2.35,2.55,2.45,1,1,0,0,0
+EST1339,Ingeniería Industrial,Ingeniería,1,Oficial,263,14,3.1,1,0,67,30,17,2.75,3.5,3.125,0,0,0,0,0
+EST1384,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,272,15,3.7,1,0,50,21,8,3.85,3.05,3.45,0,0,0,0,0
+EST1313,Ingeniería Industrial,Ingeniería,2,Privado,243,16,3.2,1,0,44,19,8,2.85,2.85,2.85,1,0,0,0,1
+EST1270,Ingeniería Informática,Ingeniería,6,Oficial,244,16,2.7,0,1,32,15,8,2.9,2.3,2.5999999999999996,1,0,0,0,1
+EST0001,Ingeniería Informática,Ingeniería,4,Privado,409,16,3.6,0,1,69,34,15,1.65,4.6,3.125,0,0,0,1,1
+EST1286,Ingeniería Industrial,Ingeniería,2,Oficial,266,15,2.1,0,1,1,0,0,3.5,2.4,2.95,1,1,0,1,0
+EST1053,Ingeniería Informática,Ingeniería,2,Oficial,301,16,3.1,1,0,57,25,16,2.7,3.45,3.075,0,0,0,0,0
+EST1078,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,303,17,2.8,0,1,30,15,7,2.65,2.9,2.775,1,0,1,0,1
+EST0536,Ingeniería Informática,Ingeniería,2,Oficial,317,17,3.4,1,0,51,25,11,3.85,2.8,3.325,0,0,0,1,0
+EST1377,Psicología,Ciencias Sociales y Humanas,2,Oficial,312,16,2.6,0,1,26,15,6,2.3,3.1,2.7,1,0,1,1,0
+EST0778,Psicología,Ciencias Sociales y Humanas,3,Privado,299,18,3.7,1,0,67,30,19,3.6,3.35,3.475,0,0,0,1,0
+EST0541,Psicología,Ciencias Sociales y Humanas,3,Privado,294,17,3.7,1,0,41,20,10,3.55,3.25,3.4,0,0,0,0,0
+EST1432,Ingeniería Industrial,Ingeniería,2,Oficial,305,16,3.9,1,0,57,26,14,2.9,4.5,3.7,0,0,0,0,0
+EST0224,Ingeniería Industrial,Ingeniería,2,Privado,289,17,3.1,0,1,13,7,1,3.9,3.6,3.75,0,1,0,0,1
+EST1281,Ingeniería Industrial,Ingeniería,3,Privado,253,14,3.5,1,0,56,23,9,3.55,2.9,3.2249999999999996,0,0,0,0,0
+EST1042,Ingeniería Informática,Ingeniería,2,Oficial,360,16,4.4,1,0,75,35,24,4.4,2.4,3.4000000000000004,0,0,0,0,0
+EST0923,Ingeniería Industrial,Ingeniería,1,Oficial,265,18,3.9,1,0,68,34,16,3.45,3.45,3.45,0,0,0,0,1
+EST0860,Ingeniería Informática,Ingeniería,2,Privado,290,14,2.8,0,1,32,10,6,3.55,2.6,3.075,0,0,0,1,0
+EST0245,Ingeniería Informática,Ingeniería,2,Oficial,297,16,3.1,1,0,44,24,18,1.6,3.6,2.6,1,0,0,0,0
+EST1156,Ingeniería Industrial,Ingeniería,2,Oficial,185,15,1.7,0,1,13,1,0,1.3,2.55,1.9249999999999998,1,1,0,0,0
+EST1371,Psicología,Ciencias Sociales y Humanas,5,Privado,320,16,3.8,1,0,33,17,13,4.1,3.3,3.6999999999999997,0,0,0,0,0
+EST1293,Psicología,Ciencias Sociales y Humanas,3,Oficial,308,18,3.3,1,0,46,20,12,3.3,3.75,3.525,0,0,0,0,0
+EST1167,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,269,14,3.2,0,1,24,15,11,3.0,2.95,2.975,1,0,0,0,1
+EST0189,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,229,16,3.4,1,0,61,32,21,3.75,2.7,3.225,0,0,0,0,0
+EST1066,Psicología,Ciencias Sociales y Humanas,1,Privado,352,18,3.9,1,0,37,25,12,3.8,2.7,3.25,0,0,0,1,0
+EST0401,Psicología,Ciencias Sociales y Humanas,4,Oficial,338,16,3.9,1,0,33,15,4,4.6,3.6,4.1,0,0,0,0,0
+EST0256,Ingeniería Informática,Ingeniería,4,Oficial,368,16,4.3,1,0,53,25,9,4.05,5.0,4.525,0,0,0,0,0
+EST0844,Ingeniería Informática,Ingeniería,2,Privado,328,16,3.4,1,0,32,24,9,2.85,3.3,3.075,0,0,0,0,0
+EST0948,Ingeniería Informática,Ingeniería,6,Oficial,296,15,4.0,1,0,63,31,15,4.25,3.35,3.8,0,0,0,0,0
+EST1408,Ingeniería Industrial,Ingeniería,3,Oficial,385,15,3.7,1,0,50,21,11,3.4,3.55,3.4749999999999996,0,0,0,0,0
+EST0320,Psicología,Ciencias Sociales y Humanas,2,Oficial,311,15,3.4,1,0,47,26,10,3.2,2.9,3.05,0,0,0,0,0
+EST0514,Psicología,Ciencias Sociales y Humanas,2,Oficial,331,16,3.8,1,0,28,14,10,3.6,3.1,3.35,0,0,0,0,0
+EST0786,Psicología,Ciencias Sociales y Humanas,3,Privado,323,18,3.3,1,0,47,21,10,3.25,2.9,3.075,0,0,0,0,0
+EST0688,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,276,14,3.4,1,0,49,25,9,2.9,3.9,3.4,0,0,0,0,0
+EST0959,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,266,16,3.1,1,0,40,20,11,3.35,3.5,3.425,0,0,0,0,0
+EST0219,Ingeniería Informática,Ingeniería,1,Oficial,309,16,2.8,1,0,36,18,9,2.5,2.7,2.6,1,0,0,0,0
+EST0410,Ingeniería Informática,Ingeniería,3,Privado,305,14,3.0,1,0,23,11,6,2.4,2.6,2.5,1,0,0,0,0
+EST1049,Ingeniería Informática,Ingeniería,2,Privado,234,16,2.8,1,0,42,21,11,3.05,3.45,3.25,0,0,0,0,0
+EST0385,Psicología,Ciencias Sociales y Humanas,2,Oficial,293,15,3.1,1,0,50,26,14,3.4,2.55,2.9749999999999996,1,0,0,0,0
+EST1155,Psicología,Ciencias Sociales y Humanas,4,Privado,264,16,3.1,1,0,35,15,7,2.7,3.3,3.0,0,0,0,0,0
+EST0440,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,319,15,3.1,1,0,39,22,9,3.25,3.0,3.125,0,0,0,0,0
+EST0315,Administración de Empresas,Ciencias Económicas y Administrativas,6,Privado,269,18,3.1,1,0,39,18,9,4.3,4.4,4.35,0,0,0,0,0
+EST0665,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,362,17,4.1,1,0,43,20,8,4.55,3.05,3.8,0,0,0,0,0
+EST0394,Psicología,Ciencias Sociales y Humanas,3,Privado,375,16,3.7,1,0,47,20,9,3.15,3.65,3.4,0,0,0,0,0
+EST0826,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,312,17,3.5,1,0,41,15,4,3.75,3.1,3.425,0,0,0,0,0
+EST0102,Ingeniería Industrial,Ingeniería,3,Privado,352,17,3.8,1,0,31,10,6,2.75,4.1,3.425,0,0,0,0,0
+EST0090,Ingeniería Informática,Ingeniería,4,Oficial,259,18,3.6,1,0,46,26,9,3.2,3.45,3.325,0,0,0,0,0
+EST0963,Ingeniería Informática,Ingeniería,1,Privado,323,17,4.0,1,0,75,40,22,4.0,4.8,4.4,0,0,0,0,0
+EST0368,Psicología,Ciencias Sociales y Humanas,3,Privado,290,18,3.7,1,0,37,18,10,4.1,3.5,3.8,0,0,0,0,0
+EST0456,Ingeniería Industrial,Ingeniería,3,Privado,266,18,3.7,1,0,72,35,18,3.3,3.75,3.525,0,0,0,0,0
+EST1301,Ingeniería Informática,Ingeniería,3,Oficial,218,14,2.5,1,0,6,3,2,2.15,2.7,2.425,1,1,0,0,0
+EST1248,Ingeniería Industrial,Ingeniería,2,Oficial,260,14,2.5,1,0,32,13,9,1.5,2.7,2.1,1,0,0,0,0
+EST0367,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,290,15,3.9,1,0,32,21,13,4.7,3.05,3.875,0,0,0,0,0
+EST1197,Psicología,Ciencias Sociales y Humanas,3,Privado,246,18,3.2,1,0,41,13,6,2.15,3.7,2.925,1,0,0,0,0
+EST0338,Ingeniería Informática,Ingeniería,2,Privado,294,14,3.8,0,1,49,22,11,3.2,5.0,4.1,0,0,0,1,1
+EST1406,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,357,17,4.5,1,0,46,22,9,4.5,4.2,4.35,0,0,0,0,0
+EST0671,Psicología,Ciencias Sociales y Humanas,2,Privado,238,18,2.8,1,0,36,22,11,3.6,2.95,3.2750000000000004,0,0,0,0,0
+EST1082,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,195,18,2.8,1,0,22,11,4,2.6,4.65,3.625,0,0,0,0,0
+EST1279,Ingeniería Informática,Ingeniería,2,Oficial,304,14,4.0,1,0,56,24,13,3.65,4.2,3.925,0,0,0,0,0
+EST0165,Ingeniería Informática,Ingeniería,2,Privado,307,18,3.3,0,1,28,11,4,3.05,4.2,3.625,0,0,0,0,0
+EST0859,Psicología,Ciencias Sociales y Humanas,3,Oficial,295,16,3.4,1,0,38,19,8,2.8,3.55,3.175,0,0,0,1,0
+EST0810,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,317,18,2.6,0,1,16,5,1,2.9,2.65,2.775,1,1,0,0,1
+EST0294,Ingeniería Industrial,Ingeniería,2,Oficial,318,15,3.8,1,0,52,28,15,2.35,3.9,3.125,0,0,0,0,0
+EST1032,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,284,14,2.7,1,0,22,9,2,2.75,2.5,2.625,1,0,0,0,0
+EST0200,Ingeniería Industrial,Ingeniería,1,Oficial,282,14,3.2,1,0,70,31,16,3.05,4.55,3.8,0,0,0,0,0
+EST1411,Ingeniería Informática,Ingeniería,3,Oficial,284,16,3.0,1,0,57,34,12,3.95,2.1,3.0250000000000004,0,0,0,0,0
+EST0680,Psicología,Ciencias Sociales y Humanas,2,Oficial,351,16,3.9,1,0,43,22,11,3.25,3.8,3.525,0,0,0,0,0
+EST0378,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,338,18,4.0,1,0,47,25,11,4.25,3.55,3.9,0,0,0,0,0
+EST0081,Ingeniería Informática,Ingeniería,2,Privado,356,17,4.1,1,0,67,24,12,3.85,4.25,4.05,0,0,0,1,0
+EST1327,Ingeniería Industrial,Ingeniería,6,Oficial,319,18,3.8,1,0,40,16,8,4.3,2.9,3.5999999999999996,0,0,0,0,1
+EST0051,Ingeniería Industrial,Ingeniería,2,Oficial,285,16,4.5,1,0,47,23,13,4.45,4.8,4.625,0,0,0,0,0
+EST0264,Ingeniería Informática,Ingeniería,3,Oficial,317,16,3.3,1,0,35,16,9,2.2,3.1,2.6500000000000004,1,0,0,0,0
+EST0489,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,290,15,3.8,1,0,81,45,20,3.6,2.9,3.25,0,0,0,0,0
+EST1092,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,322,15,3.5,1,0,40,17,11,3.65,3.95,3.8,0,0,0,0,0
+EST0703,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,286,16,3.3,1,0,69,39,19,3.6,3.8,3.7,0,0,0,0,0
+EST0930,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,272,16,3.6,1,0,50,29,13,3.65,2.85,3.25,0,0,0,0,0
+EST1342,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,274,14,3.1,1,0,46,20,8,2.95,2.5,2.725,1,0,0,0,0
+EST0515,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,249,16,3.2,1,0,28,13,7,2.8,4.3,3.55,0,0,0,0,0
+EST0276,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,269,14,2.6,1,0,51,21,7,3.3,3.1,3.2,0,0,0,0,0
+EST1300,Ingeniería Industrial,Ingeniería,3,Privado,274,18,3.7,1,0,45,25,13,3.25,3.65,3.45,0,0,0,1,0
+EST1362,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,298,17,2.8,1,0,24,12,6,3.2,2.35,2.7750000000000004,1,0,0,0,0
+EST1441,Ingeniería Informática,Ingeniería,6,Oficial,279,15,3.2,1,0,40,14,6,2.75,4.05,3.4,0,0,0,0,0
+EST1166,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,256,17,3.0,1,0,30,12,11,3.35,2.35,2.85,1,0,0,1,0
+EST0257,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,266,18,2.9,0,1,56,23,16,3.45,3.4,3.425,0,0,1,1,1
+EST1089,Ingeniería Informática,Ingeniería,2,Privado,288,15,4.4,1,0,64,30,16,5.0,4.35,4.675,0,0,0,0,0
+EST0554,Ingeniería Industrial,Ingeniería,3,Oficial,271,17,3.0,1,0,49,27,16,2.8,4.2,3.5,0,0,0,0,0
+EST0421,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,272,15,2.7,0,1,34,19,7,2.35,4.6,3.4749999999999996,0,0,0,0,1
+EST0730,Ingeniería Informática,Ingeniería,3,Privado,279,14,3.4,1,0,26,16,8,2.35,3.8,3.075,0,0,0,0,0
+EST0900,Ingeniería Industrial,Ingeniería,3,Privado,348,17,4.1,1,0,75,43,23,4.45,3.5,3.975,0,0,0,0,0
+EST0591,Ingeniería Industrial,Ingeniería,3,Privado,406,17,4.2,1,0,71,42,17,4.75,3.3,4.025,0,0,0,0,0
+EST0098,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,269,18,3.2,1,0,17,8,4,3.35,3.35,3.35,0,0,0,0,0
+EST1429,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,256,18,2.7,1,0,41,17,10,2.6,1.8,2.2,1,0,0,0,0
+EST0436,Psicología,Ciencias Sociales y Humanas,2,Oficial,243,16,4.2,1,0,43,22,13,4.9,4.05,4.475,0,0,0,0,0
+EST1445,Ingeniería Industrial,Ingeniería,3,Oficial,282,16,,1,0,59,22,10,2.95,4.05,3.5,0,0,0,0,0
+EST1344,Ingeniería Informática,Ingeniería,1,Oficial,323,18,3.2,1,0,38,11,7,3.85,3.5,3.675,0,0,0,0,0
+EST0393,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,246,16,2.8,0,1,19,7,3,2.5,3.05,2.775,1,1,0,0,0
+EST0212,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,326,18,3.7,1,0,67,37,23,3.55,3.6,3.575,0,0,0,0,0
+EST0174,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,240,14,3.1,1,0,34,15,8,3.5,3.9,3.7,0,0,0,0,0
+EST0058,Psicología,Ciencias Sociales y Humanas,1,Oficial,361,18,3.8,1,0,66,36,19,2.9,2.95,2.925,1,0,0,1,0
+EST0423,Ingeniería Informática,Ingeniería,1,Oficial,295,18,2.5,0,1,5,3,0,3.0,2.55,2.775,1,1,0,0,1
+EST0281,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,333,17,3.5,1,0,33,16,8,4.7,2.55,3.625,0,0,0,0,0
+EST0522,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,311,14,3.7,1,0,50,24,11,3.65,3.8,3.7249999999999996,0,0,0,0,0
+EST1264,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,349,17,4.6,1,0,87,38,20,4.4,4.5,4.45,0,0,0,0,1
+EST0568,Ingeniería Industrial,Ingeniería,2,Oficial,266,16,2.9,1,0,42,23,8,3.1,2.75,2.925,1,0,0,0,0
+EST0924,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,299,16,4.0,1,0,50,28,13,3.5,3.4,3.45,0,0,0,0,0
+EST0492,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,387,15,3.6,1,0,58,27,14,4.3,2.85,3.575,0,0,0,0,0
+EST1187,Ingeniería Industrial,Ingeniería,2,Privado,331,16,3.8,1,0,55,26,15,4.05,2.95,3.5,0,0,0,0,0
+EST1127,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,279,18,3.6,1,0,34,19,11,4.2,3.55,3.875,0,0,0,0,0
+EST0619,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,278,14,3.3,1,0,23,10,4,2.95,2.8,2.875,1,0,0,0,0
+EST0221,Psicología,Ciencias Sociales y Humanas,3,Privado,273,15,3.4,1,0,47,26,15,4.15,4.05,4.1,0,0,0,0,0
+EST0362,Ingeniería Informática,Ingeniería,3,Oficial,284,16,3.4,1,0,37,17,8,3.85,3.6,3.725,0,0,0,0,0
+EST0323,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,251,15,3.4,1,0,50,22,9,2.9,3.6,3.25,0,0,0,0,0
+EST0050,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,309,16,3.5,0,1,20,10,6,4.3,3.15,3.7249999999999996,0,0,0,0,0
+EST1214,Psicología,Ciencias Sociales y Humanas,5,Oficial,212,18,3.0,1,0,40,23,8,3.4,3.25,3.325,0,0,0,0,0
+EST0397,Psicología,Ciencias Sociales y Humanas,6,Oficial,240,15,2.3,1,0,14,6,3,2.5,2.15,2.325,1,1,0,0,0
+EST1054,Ingeniería Informática,Ingeniería,2,Oficial,328,14,4.0,1,0,54,31,17,3.9,4.05,3.9749999999999996,0,0,0,0,0
+EST1389,Psicología,Ciencias Sociales y Humanas,3,Privado,264,15,1.9,0,1,17,9,5,1.75,1.6,1.675,1,1,0,0,1
+EST0511,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,232,14,2.2,0,1,34,12,4,2.6,1.1,1.85,1,1,1,0,1
+EST1364,Psicología,Ciencias Sociales y Humanas,1,Oficial,275,18,3.1,0,1,33,20,13,2.0,4.95,3.475,0,0,1,1,0
+EST1012,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,321,14,3.9,1,0,46,22,12,3.95,5.0,4.475,0,0,0,0,0
+EST1238,Ingeniería Industrial,Ingeniería,5,Privado,292,14,2.5,1,0,19,10,5,1.7,1.75,1.725,1,1,0,0,0
+EST0034,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,346,17,,1,0,75,39,16,4.5,4.85,4.675,0,0,0,0,0
+EST0552,Ingeniería Informática,Ingeniería,2,Privado,257,15,2.9,0,1,31,15,0,3.1,4.0,3.55,1,0,0,0,1
+EST0207,Psicología,Ciencias Sociales y Humanas,1,Oficial,260,17,3.2,1,0,52,29,11,3.2,3.8,3.5,0,0,0,1,0
+EST0950,Ingeniería Industrial,Ingeniería,2,Oficial,262,18,1.9,1,0,4,2,1,2.3,2.55,2.425,1,1,0,0,0
+EST0706,Ingeniería Industrial,Ingeniería,3,Oficial,254,17,3.2,1,0,43,20,10,1.9,3.2,2.55,1,0,0,0,0
+EST0363,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,265,17,3.0,1,0,44,21,11,3.7,4.6,4.15,0,0,0,0,0
+EST0931,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,313,17,3.4,1,0,25,14,6,2.5,2.4,2.45,1,0,0,0,1
+EST0328,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,262,18,2.2,1,0,21,12,6,2.75,1.8,2.275,1,1,0,0,0
+EST0318,Psicología,Ciencias Sociales y Humanas,3,Oficial,270,15,2.6,1,0,17,8,3,2.65,3.65,3.15,0,0,0,0,0
+EST1025,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,285,15,2.0,0,1,6,0,0,1.35,2.65,2.0,1,1,1,0,1
+EST0782,Ingeniería Informática,Ingeniería,2,Oficial,370,18,3.9,1,0,50,23,10,3.9,4.65,4.275,0,0,0,0,0
+EST1215,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,228,18,2.3,0,1,14,9,4,3.45,2.55,3.0,0,0,1,0,0
+EST0935,Ingeniería Informática,Ingeniería,2,Privado,336,17,4.2,1,0,42,21,9,4.35,3.5,3.925,0,0,0,0,0
+EST1184,Psicología,Ciencias Sociales y Humanas,1,Oficial,236,18,2.4,1,0,36,23,9,2.65,2.55,2.5999999999999996,1,0,0,0,0
+EST1050,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,317,15,4.2,1,0,55,37,16,3.6,3.85,3.725,0,0,0,0,0
+EST0708,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,269,16,2.6,1,0,27,14,7,3.5,3.8,3.65,0,0,0,0,0
+EST1307,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,297,16,3.6,1,0,43,24,12,3.95,3.65,3.8,0,0,0,0,0
+EST0443,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,353,17,4.2,1,0,43,25,10,4.05,3.55,3.8,0,0,0,0,0
+EST1185,Psicología,Ciencias Sociales y Humanas,3,Oficial,295,18,3.1,1,0,50,27,15,3.8,3.4,3.5999999999999996,0,0,0,0,0
+EST0526,Psicología,Ciencias Sociales y Humanas,2,Oficial,333,14,3.3,1,0,44,25,9,3.4,3.9,3.65,0,0,0,0,1
+EST0496,Ingeniería Informática,Ingeniería,3,Privado,337,14,4.5,1,0,53,28,20,4.75,4.45,4.6,0,0,0,0,0
+EST0684,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,281,14,3.0,0,1,29,15,9,3.6,3.55,3.575,0,0,1,1,1
+EST0618,Psicología,Ciencias Sociales y Humanas,5,Oficial,264,14,1.7,1,0,20,13,4,1.1,1.7,1.4,1,0,0,0,0
+EST1021,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,273,16,2.3,1,0,33,15,10,1.9,1.45,1.6749999999999998,1,0,0,0,0
+EST0705,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,261,16,3.1,1,0,35,19,7,3.15,2.25,2.7,1,0,0,0,0
+EST0461,Ingeniería Informática,Ingeniería,3,Privado,222,15,2.1,0,1,4,2,2,2.45,2.1,2.2750000000000004,1,1,1,1,0
+EST1026,Psicología,Ciencias Sociales y Humanas,2,Oficial,287,16,3.1,1,0,51,28,15,2.7,2.8,2.75,1,0,0,0,0
+EST0164,Ingeniería Informática,Ingeniería,1,Oficial,319,14,3.9,1,0,71,39,19,4.1,3.6,3.8499999999999996,0,0,0,0,0
+EST0934,Ingeniería Industrial,Ingeniería,3,Oficial,300,15,3.2,1,0,39,18,11,2.9,2.8,2.8499999999999996,1,0,0,0,0
+EST0400,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,264,15,3.0,1,0,37,19,14,3.4,2.9,3.15,0,0,0,0,0
+EST0926,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,307,17,3.2,1,0,35,18,7,4.15,1.85,3.0,0,0,0,0,0
+EST0954,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,238,14,2.9,1,0,36,19,8,2.3,3.15,2.7249999999999996,1,0,0,0,0
+EST1180,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,251,17,3.2,1,0,43,25,12,3.35,3.25,3.3,0,0,0,0,0
+EST0780,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,327,15,4.2,1,0,41,26,11,4.3,3.85,4.075,0,0,0,0,0
+EST1106,Ingeniería Industrial,Ingeniería,1,Oficial,269,15,3.6,0,1,26,7,2,3.6,4.4,4.0,0,1,0,1,0
+EST1222,Ingeniería Informática,Ingeniería,3,Oficial,312,18,3.3,1,0,29,18,8,2.75,4.15,3.45,0,0,0,0,0
+EST0453,Ingeniería Informática,Ingeniería,2,Privado,234,17,3.2,0,1,37,17,5,2.8,2.85,2.825,1,0,1,0,0
+EST0399,Psicología,Ciencias Sociales y Humanas,1,Oficial,316,18,4.4,1,0,82,45,21,4.75,4.15,4.45,0,0,0,0,0
+EST0990,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,321,14,,1,0,69,32,18,4.4,4.4,4.4,0,0,0,0,0
+EST1008,Ingeniería Informática,Ingeniería,4,Privado,258,15,3.1,1,0,29,15,7,3.15,3.0,3.075,0,0,0,0,0
+EST0984,Ingeniería Industrial,Ingeniería,3,Oficial,265,16,4.1,1,0,72,38,19,4.35,4.9,4.625,0,0,0,0,0
+EST0002,Ingeniería Industrial,Ingeniería,2,Oficial,310,15,3.6,1,0,47,21,14,2.85,4.45,3.6500000000000004,0,0,0,0,1
+EST0369,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,342,17,2.9,1,0,37,15,9,2.3,3.55,2.925,1,0,0,0,0
+EST0988,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,305,17,3.7,0,1,24,3,1,3.25,3.3,3.275,0,1,0,0,0
+EST0876,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,243,17,3.0,1,0,72,39,24,1.95,2.7,2.325,1,0,0,0,0
+EST0054,Ingeniería Informática,Ingeniería,4,Privado,257,17,3.2,1,0,65,33,17,2.6,3.0,2.8,1,0,0,0,0
+EST0506,Ingeniería Informática,Ingeniería,3,Oficial,304,15,4.4,1,0,52,31,15,3.1,4.5,3.8,0,0,0,0,0
+EST0518,Ingeniería Industrial,Ingeniería,2,Privado,277,18,3.3,1,0,41,20,9,3.25,3.85,3.55,0,0,0,0,0
+EST0244,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,272,16,3.1,0,1,47,22,9,2.55,3.25,2.9,1,0,0,0,0
+EST1102,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,249,17,2.0,0,1,20,12,5,1.95,1.45,1.7,1,1,0,0,0
+EST0152,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,330,15,4.4,1,0,69,38,20,4.85,4.65,4.75,0,0,0,0,0
+EST0993,Psicología,Ciencias Sociales y Humanas,1,Oficial,312,18,2.7,1,0,40,20,9,1.75,2.35,2.05,1,0,0,0,0
+EST1151,Ingeniería Industrial,Ingeniería,1,Oficial,299,16,3.3,1,0,17,8,3,2.85,3.35,3.1,0,0,0,0,0
+EST0637,Ingeniería Informática,Ingeniería,4,Privado,301,16,3.5,1,0,47,27,13,3.5,3.7,3.6,0,0,0,0,0
+EST1119,Ingeniería Informática,Ingeniería,2,Oficial,221,16,1.7,0,1,8,5,3,2.75,1.1,1.925,1,1,0,0,1
+EST0439,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,247,18,,1,0,41,20,7,1.7,2.7,2.2,1,0,0,0,0
+EST1107,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,319,18,3.3,1,0,40,19,10,3.35,2.75,3.05,0,0,0,0,0
+EST0405,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,297,16,3.8,1,0,36,21,7,5.0,3.0,4.0,0,0,0,0,0
+EST0239,Ingeniería Industrial,Ingeniería,3,Oficial,228,14,2.5,1,0,7,3,1,2.95,2.9,2.925,1,1,0,0,0
+EST0864,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,291,14,3.3,1,0,35,15,7,3.95,3.25,3.6,0,0,0,0,0
+EST0633,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,300,16,4.2,1,0,52,27,14,3.7,3.6,3.6500000000000004,0,0,0,0,0
+EST0417,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,225,14,3.8,1,0,43,22,9,4.8,4.25,4.525,0,0,0,0,0
+EST1299,Psicología,Ciencias Sociales y Humanas,4,Oficial,294,16,3.8,1,0,52,26,16,3.1,3.65,3.375,0,0,0,0,0
+EST1295,Psicología,Ciencias Sociales y Humanas,2,Privado,306,15,2.8,1,0,53,29,11,2.4,3.3,2.8499999999999996,1,0,0,0,0
+EST1133,Ingeniería Industrial,Ingeniería,4,Oficial,241,16,2.8,1,0,36,17,8,2.7,2.85,2.7750000000000004,1,0,0,0,0
+EST0068,Psicología,Ciencias Sociales y Humanas,2,Oficial,312,15,2.8,0,1,15,10,4,2.55,2.7,2.625,1,0,0,0,1
+EST0640,Ingeniería Informática,Ingeniería,2,Oficial,330,14,4.2,1,0,72,31,15,3.35,4.75,4.05,0,0,0,0,0
+EST0507,Ingeniería Industrial,Ingeniería,2,Privado,382,15,4.1,1,0,72,32,14,4.05,3.5,3.775,0,0,0,0,0
+EST0913,Ingeniería Informática,Ingeniería,2,Privado,310,16,4.0,1,0,39,21,8,3.3,4.2,3.75,0,0,0,0,0
+EST1401,Ingeniería Informática,Ingeniería,4,Oficial,408,15,4.4,1,0,40,16,8,4.05,4.15,4.1,0,0,0,0,0
+EST0893,Ingeniería Industrial,Ingeniería,3,Privado,348,16,4.0,1,0,62,33,17,3.4,3.4,3.4,0,0,0,0,0
+EST0263,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,191,16,2.6,0,1,17,9,4,3.6,2.05,2.825,1,0,1,0,0
+EST1122,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,308,15,4.5,1,0,65,32,20,4.4,4.0,4.2,0,0,0,0,0
+EST0505,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,314,15,3.9,1,0,44,23,10,3.35,3.0,3.175,0,0,0,0,0
+EST0115,Ingeniería Informática,Ingeniería,3,Oficial,277,18,3.3,1,0,40,22,9,2.75,3.6,3.175,0,0,0,0,1
+EST1100,Ingeniería Informática,Ingeniería,3,Oficial,204,15,3.7,1,0,43,23,15,3.3,3.8,3.55,0,0,0,0,0
+EST1004,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,312,16,4.0,1,0,30,14,6,3.9,4.5,4.2,0,0,0,0,0
+EST1141,Ingeniería Industrial,Ingeniería,6,Oficial,275,17,2.0,0,1,27,12,6,2.45,1.7,2.075,1,1,1,1,1
+EST0647,Ingeniería Informática,Ingeniería,2,Privado,271,17,3.1,1,0,48,27,15,3.65,2.15,2.9,1,0,0,0,0
+EST0149,Ingeniería Informática,Ingeniería,6,Oficial,285,16,3.9,1,0,36,22,11,2.4,3.2,2.8,1,0,0,0,0
+EST0418,Ingeniería Industrial,Ingeniería,3,Oficial,266,17,4.2,1,0,63,38,20,3.65,5.0,4.325,0,0,0,0,0
+EST0797,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,274,16,3.0,1,0,44,26,17,3.85,2.5,3.175,0,0,0,0,0
+EST1262,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,269,14,4.2,1,0,48,22,13,5.0,4.45,4.725,0,0,0,0,0
+EST0280,Ingeniería Informática,Ingeniería,3,Oficial,334,17,2.6,0,1,22,13,4,1.8,3.2,2.5,1,0,0,0,1
+EST0634,Psicología,Ciencias Sociales y Humanas,2,Privado,275,18,2.9,1,0,31,16,10,2.65,2.55,2.5999999999999996,1,0,0,1,0
+EST1019,Psicología,Ciencias Sociales y Humanas,1,Oficial,345,15,4.2,1,0,47,27,13,3.35,3.6,3.475,0,0,0,1,0
+EST1016,Ingeniería Informática,Ingeniería,1,Privado,331,16,3.6,0,1,39,18,12,3.65,3.3,3.4749999999999996,0,0,0,1,0
+EST0072,Ingeniería Industrial,Ingeniería,2,Privado,292,18,2.7,1,0,57,26,13,2.7,2.5,2.6,1,0,0,0,0
+EST1236,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,320,18,3.5,1,0,61,34,21,4.0,4.15,4.075,0,0,0,0,0
+EST0755,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,305,14,3.0,1,0,39,22,12,2.9,3.05,2.9749999999999996,1,0,0,0,0
+EST0477,Psicología,Ciencias Sociales y Humanas,3,Oficial,303,16,2.8,1,0,33,15,9,3.5,3.1,3.3,0,0,0,0,0
+EST0188,Psicología,Ciencias Sociales y Humanas,1,Oficial,327,14,4.0,0,1,43,22,11,3.65,4.05,3.8499999999999996,0,0,1,0,0
+EST0292,Psicología,Ciencias Sociales y Humanas,2,Privado,346,15,3.8,1,0,52,23,12,3.35,4.25,3.8,0,0,0,1,0
+EST1204,Psicología,Ciencias Sociales y Humanas,3,Privado,323,15,3.7,1,0,31,17,10,4.2,3.3,3.75,0,0,0,0,0
+EST0365,Ingeniería Informática,Ingeniería,2,Oficial,234,16,2.4,1,0,13,9,6,2.6,2.3,2.45,1,1,0,0,0
+EST1366,Ingeniería Industrial,Ingeniería,6,Privado,346,15,4.2,1,0,42,19,8,4.15,4.05,4.1,0,0,0,0,0
+EST0882,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,299,17,3.0,0,1,25,12,3,3.75,3.25,3.5,0,0,0,0,0
+EST0639,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,269,16,3.5,1,0,41,17,6,2.8,4.05,3.425,0,0,0,0,0
+EST0727,Contaduría Pública,Ciencias Económicas y Administrativas,5,Privado,276,18,3.6,1,0,43,21,12,3.05,3.2,3.125,0,0,0,0,0
+EST0772,Ingeniería Industrial,Ingeniería,6,Privado,269,16,4.0,1,0,55,27,16,4.3,4.95,4.625,0,0,0,0,0
+EST0295,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,233,15,3.4,1,0,35,17,6,3.3,3.5,3.4,0,0,0,0,0
+EST0501,Psicología,Ciencias Sociales y Humanas,1,Oficial,325,14,3.4,1,0,23,10,5,3.65,3.45,3.55,0,0,0,0,0
+EST1359,Ingeniería Industrial,Ingeniería,2,Privado,244,14,3.0,0,1,40,22,9,2.2,3.65,2.925,1,0,1,0,1
+EST1067,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,282,16,3.7,1,0,89,51,27,3.85,4.65,4.25,0,0,0,0,0
+EST0813,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,229,14,2.8,1,0,31,13,5,3.1,2.55,2.825,1,0,0,0,0
+EST1250,Ingeniería Informática,Ingeniería,4,Oficial,212,18,1.9,0,1,4,0,0,2.35,1.65,2.0,1,1,0,0,1
+EST1035,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,307,15,3.3,1,0,41,24,10,3.35,4.5,3.925,0,0,0,0,1
+EST0168,Psicología,Ciencias Sociales y Humanas,4,Oficial,266,17,3.6,1,0,47,21,9,3.8,5.0,4.4,0,0,0,0,0
+EST0655,Ingeniería Informática,Ingeniería,4,Oficial,279,16,3.0,0,1,30,8,4,2.65,3.7,3.175,0,0,1,0,0
+EST0138,Psicología,Ciencias Sociales y Humanas,4,Privado,362,15,3.3,1,0,64,28,10,3.1,3.15,3.125,0,0,0,0,0
+EST0024,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,229,15,2.8,0,1,35,11,1,3.0,2.8,2.9,1,0,0,1,0
+EST0003,Ingeniería Industrial,Ingeniería,3,Privado,332,16,2.9,1,0,34,21,8,3.3,2.55,2.925,1,0,0,0,0
+EST0851,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,345,14,3.1,1,0,50,21,10,3.45,2.95,3.2,0,0,0,0,0
+EST0371,Psicología,Ciencias Sociales y Humanas,3,Oficial,287,17,3.3,1,0,23,8,4,2.6,2.4,2.5,1,0,0,0,1
+EST0325,Ingeniería Informática,Ingeniería,2,Oficial,325,16,5.0,1,0,52,18,13,4.25,4.65,4.45,0,0,0,0,0
+EST1132,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,216,16,3.8,1,0,28,15,7,3.1,4.05,3.575,0,0,0,0,0
+EST1069,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,192,14,3.4,1,0,54,29,13,4.05,3.35,3.7,0,0,0,0,0
+EST1029,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,229,16,2.3,0,1,11,7,5,1.2,3.05,2.125,1,1,1,0,1
+EST1321,Psicología,Ciencias Sociales y Humanas,4,Privado,324,18,3.5,1,0,33,19,12,3.8,3.95,3.875,0,0,0,0,0
+EST0382,Ingeniería Informática,Ingeniería,3,Privado,323,14,4.5,1,0,85,41,25,4.8,4.75,4.775,0,0,0,0,0
+EST0751,Trabajo Social,Ciencias Sociales y Humanas,6,Privado,264,15,3.9,1,0,34,13,4,3.55,4.05,3.8,0,0,0,0,0
+EST0240,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,270,17,2.4,0,1,28,13,6,2.9,1.35,2.125,1,0,1,1,1
+EST0867,Ingeniería Industrial,Ingeniería,2,Privado,302,18,3.2,0,1,28,2,0,3.6,3.65,3.625,1,1,0,0,1
+EST0992,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,262,15,2.6,1,0,18,10,6,3.6,2.2,2.9000000000000004,1,0,0,0,0
+EST1134,Psicología,Ciencias Sociales y Humanas,2,Oficial,340,17,4.4,1,0,58,34,18,4.7,4.25,4.475,0,0,0,0,1
+EST0166,Ingeniería Informática,Ingeniería,1,Oficial,319,16,3.4,1,0,29,12,8,3.95,3.25,3.6,0,0,0,0,1
+EST1318,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,310,17,3.1,1,0,31,19,11,3.45,4.45,3.95,0,0,0,0,0
+EST1088,Ingeniería Industrial,Ingeniería,3,Oficial,331,18,4.0,1,0,48,28,16,3.8,5.0,4.4,0,0,0,0,0
+EST0235,Psicología,Ciencias Sociales y Humanas,6,Oficial,403,17,4.0,1,0,71,27,17,3.95,4.3,4.125,0,0,0,0,0
+EST1296,Ingeniería Informática,Ingeniería,2,Oficial,311,16,2.8,1,0,27,16,8,2.6,3.05,2.825,1,0,0,0,0
+EST1356,Ingeniería Informática,Ingeniería,1,Oficial,361,14,4.5,1,0,59,28,13,4.95,3.85,4.4,0,0,0,0,0
+EST0508,Psicología,Ciencias Sociales y Humanas,3,Privado,299,15,3.1,1,0,38,19,10,2.8,2.65,2.7249999999999996,1,0,0,0,0
+EST0159,Psicología,Ciencias Sociales y Humanas,2,Oficial,227,17,3.1,1,0,42,19,8,4.0,2.8,3.4,0,0,0,0,0
+EST0125,Psicología,Ciencias Sociales y Humanas,2,Privado,272,16,3.1,1,0,55,25,10,3.7,2.65,3.175,0,0,0,0,0
+EST0789,Psicología,Ciencias Sociales y Humanas,2,Oficial,335,18,4.5,1,0,49,28,15,4.1,4.55,4.324999999999999,0,0,0,0,0
+EST1369,Psicología,Ciencias Sociales y Humanas,5,Privado,334,17,3.4,1,0,41,17,6,2.35,3.8,3.075,0,0,0,1,0
+EST1140,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,283,16,2.7,0,1,24,14,4,3.0,2.9,2.95,1,0,0,0,1
+EST0846,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,291,14,3.4,1,0,50,23,12,2.8,4.3,3.55,0,0,0,0,0
+EST0595,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,293,18,2.7,1,0,22,9,4,2.6,2.45,2.5250000000000004,1,0,0,0,0
+EST0717,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,196,18,3.0,1,0,28,15,9,3.2,3.95,3.575,0,0,0,0,0
+EST0432,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,248,15,2.4,0,1,9,5,4,1.3,1.7,1.5,1,1,0,0,1
+EST0398,Ingeniería Industrial,Ingeniería,5,Privado,254,16,3.2,1,0,38,20,9,3.25,3.3,3.275,0,0,0,0,0
+EST0113,Ingeniería Industrial,Ingeniería,6,Privado,287,16,4.2,1,0,42,22,10,3.8,4.55,4.175,0,0,0,0,0
+EST0597,Ingeniería Industrial,Ingeniería,2,Privado,264,16,2.9,1,0,18,9,4,3.25,4.0,3.625,0,0,0,0,0
+EST1357,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,317,15,3.9,1,0,72,35,18,3.5,3.25,3.375,0,0,0,0,0
+EST0917,Ingeniería Informática,Ingeniería,2,Privado,352,15,3.1,1,0,42,20,6,4.1,3.1,3.5999999999999996,0,0,0,0,0
+EST0690,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,316,17,3.9,1,0,66,32,16,3.1,3.0,3.05,0,0,0,0,0
+EST1437,Psicología,Ciencias Sociales y Humanas,5,Oficial,280,15,2.6,1,0,36,19,15,1.8,3.6,2.7,1,0,0,0,0
+EST1157,Psicología,Ciencias Sociales y Humanas,2,Oficial,239,15,3.5,1,0,71,40,21,3.45,4.15,3.8000000000000003,0,0,0,0,0
+EST0388,Ingeniería Informática,Ingeniería,2,Privado,312,18,3.4,1,0,68,24,11,3.6,2.5,3.05,0,0,0,0,0
+EST1256,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,302,15,3.2,1,0,39,19,11,3.6,3.75,3.675,0,0,0,0,0
+EST0275,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,362,16,4.1,1,0,55,26,12,4.4,4.55,4.475,0,0,0,1,0
+EST0450,Psicología,Ciencias Sociales y Humanas,3,Oficial,305,18,3.4,1,0,60,34,8,4.6,3.45,4.025,0,0,0,0,0
+EST0131,Psicología,Ciencias Sociales y Humanas,6,Privado,358,16,,1,0,52,25,16,3.6,4.6,4.1,0,0,0,0,0
+EST1283,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,263,15,3.3,1,0,63,32,18,3.2,3.9,3.55,0,0,0,0,0
+EST0775,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,323,18,2.7,0,1,31,14,7,3.7,2.3,3.0,0,0,0,0,1
+EST0228,Ingeniería Industrial,Ingeniería,2,Oficial,318,14,3.2,1,0,24,9,4,2.9,3.55,3.2249999999999996,0,0,0,0,0
+EST0661,Ingeniería Industrial,Ingeniería,1,Oficial,327,15,3.1,1,0,53,21,8,1.9,4.5,3.2,0,0,0,0,0
+EST0146,Psicología,Ciencias Sociales y Humanas,5,Oficial,292,17,3.4,1,0,51,26,12,3.45,3.75,3.6,0,0,0,0,0
+EST0883,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,386,18,5.0,1,0,87,44,25,5.0,4.9,4.95,0,0,0,0,0
+EST0696,Ingeniería Informática,Ingeniería,1,Privado,284,15,2.9,1,0,41,24,12,1.8,2.7,2.25,1,0,0,0,0
+EST0042,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,311,14,2.7,1,0,43,21,13,1.3,2.3,1.7999999999999998,1,0,0,0,0
+EST1022,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,313,18,3.4,1,0,42,21,12,4.25,2.95,3.6,0,0,0,0,0
+EST0383,Psicología,Ciencias Sociales y Humanas,6,Oficial,279,15,3.7,1,0,55,29,15,2.95,3.8,3.375,0,0,0,0,0
+EST0147,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,324,14,3.8,1,0,39,17,7,4.05,3.65,3.8499999999999996,0,0,0,0,0
+EST0141,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,302,17,4.0,1,0,82,35,14,4.7,4.9,4.800000000000001,0,0,0,0,0
+EST0823,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,268,14,2.4,0,1,22,13,10,2.45,2.45,2.45,1,0,0,1,1
+EST1152,Ingeniería Industrial,Ingeniería,2,Oficial,272,17,2.7,1,0,48,25,11,3.45,3.05,3.25,0,0,0,0,0
+EST0912,Psicología,Ciencias Sociales y Humanas,2,Privado,276,14,2.9,1,0,50,24,13,3.4,2.4,2.9,1,0,0,0,0
+EST0238,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,314,15,4.2,1,0,68,27,13,4.0,5.0,4.5,0,0,0,0,0
+EST0998,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,301,16,3.6,1,0,41,20,12,4.4,4.15,4.275,0,0,0,0,0
+EST0976,Psicología,Ciencias Sociales y Humanas,6,Privado,243,14,3.3,1,0,35,18,10,3.3,3.15,3.2249999999999996,0,0,0,0,0
+EST1124,Psicología,Ciencias Sociales y Humanas,2,Privado,266,16,3.5,1,0,45,23,7,2.95,3.95,3.45,0,0,0,0,0
+EST0409,Ingeniería Industrial,Ingeniería,2,Oficial,310,14,4.1,1,0,44,20,12,4.3,4.6,4.449999999999999,0,0,0,0,0
+EST1169,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,254,18,3.1,1,0,52,26,10,1.75,3.0,2.375,1,0,0,0,0
+EST1073,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,269,18,3.5,1,0,37,16,7,2.8,3.75,3.275,0,0,0,0,0
+EST1143,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,266,17,3.1,1,0,59,30,15,1.9,2.3,2.0999999999999996,1,0,0,0,1
+EST1210,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,309,16,2.7,1,0,39,15,4,2.25,2.85,2.55,1,0,0,0,0
+EST1052,Psicología,Ciencias Sociales y Humanas,1,Privado,297,17,3.1,1,0,39,15,6,2.75,3.3,3.025,0,0,0,0,0
+EST0725,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,270,17,2.9,1,0,44,21,13,3.6,3.55,3.575,0,0,0,0,0
+EST0805,Ingeniería Informática,Ingeniería,3,Privado,307,16,3.6,1,0,45,24,10,2.65,3.75,3.2,0,0,0,0,0
+EST1430,Ingeniería Industrial,Ingeniería,3,Oficial,352,18,3.4,1,0,75,40,20,3.25,3.4,3.325,0,0,0,0,0
+EST0801,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,302,17,3.8,1,0,63,32,17,3.8,3.7,3.75,0,0,0,0,0
+EST1290,Ingeniería Informática,Ingeniería,5,Oficial,274,18,3.0,1,0,31,12,9,2.3,4.1,3.1999999999999997,0,0,0,0,0
+EST0838,Ingeniería Industrial,Ingeniería,4,Oficial,267,17,3.3,1,0,39,21,13,4.0,3.95,3.975,0,0,0,0,0
+EST0520,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,309,16,3.9,1,0,47,12,6,3.65,3.3,3.4749999999999996,0,0,0,0,0
+EST0296,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,360,16,5.0,1,0,67,46,19,4.45,5.0,4.725,0,0,0,1,0
+EST0967,Psicología,Ciencias Sociales y Humanas,5,Privado,272,14,3.8,1,0,44,27,14,3.8,4.7,4.25,0,0,0,0,0
+EST0297,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,294,14,3.9,1,0,52,28,18,4.95,4.0,4.475,0,0,0,0,0
+EST0610,Ingeniería Informática,Ingeniería,6,Oficial,316,17,3.9,1,0,55,22,13,3.65,4.95,4.3,0,0,0,0,0
+EST0600,Ingeniería Informática,Ingeniería,2,Oficial,332,18,2.9,1,0,40,25,13,3.0,3.2,3.1,0,0,0,0,0
+EST0729,Ingeniería Industrial,Ingeniería,1,Oficial,275,18,3.7,1,0,68,33,16,3.2,3.4,3.3,0,0,0,1,0
+EST0384,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,272,14,3.6,1,0,54,21,10,2.75,4.3,3.525,0,0,0,0,0
+EST1060,Administración de Empresas,Ciencias Económicas y Administrativas,6,Oficial,236,18,1.9,1,0,31,15,9,1.6,1.5,1.55,1,0,0,1,0
+EST0573,Psicología,Ciencias Sociales y Humanas,2,Oficial,368,14,4.1,1,0,55,28,14,4.2,3.8,4.0,0,0,0,0,1
+EST0459,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,263,15,3.1,0,1,35,21,9,2.8,2.7,2.75,1,0,0,0,1
+EST0903,Ingeniería Industrial,Ingeniería,3,Oficial,330,16,4.3,1,0,59,25,9,4.1,4.85,4.475,0,0,0,0,0
+EST0133,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,268,15,2.7,1,0,40,20,10,3.65,4.15,3.9000000000000004,0,0,0,0,0
+EST0760,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,229,16,2.4,1,0,41,19,13,2.75,2.9,2.825,1,0,0,0,1
+EST0064,Ingeniería Industrial,Ingeniería,2,Oficial,307,14,3.3,1,0,28,13,8,3.85,3.25,3.55,0,0,0,0,0
+EST0798,Ingeniería Industrial,Ingeniería,3,Oficial,293,14,3.9,1,0,73,42,22,4.2,4.8,4.5,0,0,0,1,0
+EST1376,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,276,14,4.7,1,0,57,29,12,3.95,5.0,4.475,0,0,0,0,0
+EST0932,Ingeniería Industrial,Ingeniería,1,Oficial,268,14,3.4,1,0,24,14,6,3.8,4.25,4.025,0,0,0,0,0
+EST1111,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,279,18,3.3,1,0,35,15,9,3.55,2.95,3.25,0,0,0,0,0
+EST0575,Ingeniería Industrial,Ingeniería,2,Oficial,322,18,3.3,1,0,42,18,11,3.5,3.75,3.625,0,0,0,0,0
+EST1354,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,238,18,3.4,1,0,44,30,14,3.85,3.2,3.5250000000000004,0,0,0,0,0
+EST1292,Psicología,Ciencias Sociales y Humanas,3,Oficial,291,18,3.6,1,0,65,37,16,4.3,2.75,3.525,0,0,0,0,0
+EST1396,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,337,18,3.4,1,0,29,17,5,3.0,3.5,3.25,0,0,0,0,0
+EST0745,Ingeniería Industrial,Ingeniería,1,Privado,290,18,,1,0,43,18,12,3.35,2.9,3.125,0,0,0,0,0
+EST0879,Ingeniería Industrial,Ingeniería,1,Oficial,265,18,1.9,1,0,1,0,0,1.15,0.95,1.0499999999999998,1,1,0,0,0
+EST1309,Ingeniería Industrial,Ingeniería,2,Oficial,325,15,3.9,1,0,43,19,9,4.05,3.5,3.775,0,0,0,0,0
+EST1400,Psicología,Ciencias Sociales y Humanas,3,Oficial,300,18,4.5,1,0,87,45,20,4.55,4.35,4.449999999999999,0,0,0,0,0
+EST1319,Ingeniería Industrial,Ingeniería,6,Privado,245,14,3.0,1,0,49,24,10,2.8,2.6,2.7,1,0,0,0,0
+EST1393,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,321,14,3.9,1,0,66,30,13,5.0,3.75,4.375,0,0,0,0,0
+EST1046,Psicología,Ciencias Sociales y Humanas,3,Oficial,320,18,3.9,1,0,46,25,10,4.6,3.6,4.1,0,0,0,0,0
+EST0783,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,304,14,3.9,1,0,51,23,15,3.75,3.95,3.85,0,0,0,0,0
+EST1360,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,273,15,4.0,1,0,57,26,13,4.15,2.65,3.4000000000000004,0,0,0,0,0
+EST0464,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,336,16,3.4,1,0,42,20,9,2.4,2.7,2.55,1,0,0,0,0
+EST1230,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,286,18,3.5,1,0,54,26,14,4.6,3.5,4.05,0,0,0,0,0
+EST0667,Ingeniería Industrial,Ingeniería,1,Oficial,286,15,3.6,1,0,44,18,11,3.5,4.4,3.95,0,0,0,1,0
+EST1345,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,347,16,3.3,1,0,67,43,21,3.5,4.0,3.75,0,0,0,0,0
+EST0689,Ingeniería Informática,Ingeniería,3,Oficial,278,17,3.2,1,0,40,18,7,3.45,2.4,2.925,1,0,0,0,0
+EST1196,Psicología,Ciencias Sociales y Humanas,2,Oficial,313,17,4.0,1,0,45,24,10,3.45,3.5,3.475,0,0,0,0,0
+EST0866,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,284,16,3.2,1,0,38,22,11,3.1,3.1,3.1,0,0,0,1,0
+EST0660,Ingeniería Industrial,Ingeniería,1,Privado,228,17,2.7,1,0,28,16,9,3.65,2.15,2.9,1,0,0,0,0
+EST0804,Ingeniería Industrial,Ingeniería,6,Oficial,384,18,4.9,1,0,67,37,23,5.0,4.7,4.85,0,0,0,0,0
+EST1245,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,389,14,3.9,1,0,72,41,21,4.75,4.85,4.8,0,0,0,0,0
+EST0535,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,299,18,3.1,1,0,49,25,13,3.85,3.8,3.825,0,0,0,0,0
+EST0077,Psicología,Ciencias Sociales y Humanas,4,Privado,280,14,2.6,1,0,17,10,2,2.0,2.8,2.4,1,1,0,0,0
+EST1346,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,314,17,3.3,0,1,36,15,6,3.75,3.4,3.575,0,0,0,1,1
+EST0510,Trabajo Social,Ciencias Sociales y Humanas,1,Privado,275,14,3.7,1,0,37,22,12,3.9,3.05,3.4749999999999996,0,0,0,0,0
+EST0709,Ingeniería Industrial,Ingeniería,3,Privado,241,18,2.9,1,0,28,14,9,3.15,2.4,2.775,1,0,0,0,0
+EST1434,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,225,18,2.3,0,1,26,15,8,1.75,1.6,1.675,1,0,1,0,0
+EST0981,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,309,15,3.7,1,0,31,17,9,3.3,4.2,3.75,0,0,0,0,0
+EST0278,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,277,15,2.9,1,0,29,12,6,3.4,2.6,3.0,0,0,0,0,0
+EST1055,Ingeniería Informática,Ingeniería,3,Privado,286,16,3.5,0,1,26,13,2,3.95,2.65,3.3,0,0,0,0,0
+EST0167,Psicología,Ciencias Sociales y Humanas,3,Oficial,308,17,3.1,1,0,59,26,14,2.75,3.55,3.15,0,0,0,0,0
+EST0359,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,317,16,3.1,1,0,33,19,10,2.95,3.6,3.2750000000000004,0,0,0,0,0
+EST1334,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,269,15,3.3,1,0,29,14,6,3.3,3.3,3.3,0,0,0,0,0
+EST0352,Ingeniería Informática,Ingeniería,1,Oficial,213,14,2.5,1,0,36,20,11,2.9,1.75,2.325,1,0,0,0,0
+EST1340,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,222,15,1.8,1,0,6,2,1,2.55,1.45,2.0,1,1,0,0,0
+EST0161,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,310,17,2.7,1,0,44,21,8,3.45,2.4,2.925,1,0,0,0,0
+EST0540,Ingeniería Industrial,Ingeniería,2,Oficial,304,18,4.0,1,0,33,13,6,4.2,3.1,3.6500000000000004,0,0,0,0,0
+EST0821,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,277,15,3.3,0,1,34,16,7,4.0,2.2,3.1,0,0,0,0,0
+EST0173,Psicología,Ciencias Sociales y Humanas,5,Oficial,238,16,3.2,1,0,68,35,20,3.55,2.5,3.025,0,0,0,0,0
+EST0427,Psicología,Ciencias Sociales y Humanas,1,Privado,320,18,2.9,1,0,23,9,4,3.05,2.55,2.8,1,0,0,0,0
+EST0225,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,354,15,3.7,1,0,65,37,18,4.25,2.45,3.35,0,0,0,0,0
+EST0587,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,259,15,3.1,1,0,48,27,10,2.45,3.6,3.0250000000000004,0,0,0,1,0
+EST0015,Psicología,Ciencias Sociales y Humanas,1,Privado,313,18,3.3,1,0,53,29,15,3.45,4.25,3.85,0,0,0,0,0
+EST0109,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,256,17,3.4,1,0,38,23,15,3.95,3.7,3.825,0,0,0,0,0
+EST0008,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,283,15,3.7,1,0,41,24,9,3.55,2.5,3.025,0,0,0,0,0
+EST0740,Ingeniería Informática,Ingeniería,3,Oficial,329,14,4.1,1,0,74,40,17,4.45,4.65,4.550000000000001,0,0,0,0,0
+EST0462,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,235,14,2.3,0,1,12,7,3,1.65,1.8,1.725,1,1,0,1,1
+EST0623,Trabajo Social,Ciencias Sociales y Humanas,4,Privado,295,18,3.4,1,0,15,6,3,4.05,3.2,3.625,0,1,0,0,0
+EST1018,Ingeniería Industrial,Ingeniería,2,Oficial,297,14,4.0,1,0,46,26,12,3.95,3.7,3.825,0,0,0,0,0
+EST0601,Ingeniería Informática,Ingeniería,2,Oficial,223,14,3.1,1,0,59,29,15,2.15,3.4,2.775,1,0,0,0,0
+EST0517,Psicología,Ciencias Sociales y Humanas,6,Oficial,297,16,3.5,1,0,43,23,8,3.3,3.6,3.45,0,0,0,0,0
+EST1278,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,336,15,3.5,1,0,50,29,16,2.2,3.05,2.625,1,0,0,0,0
+EST1436,Ingeniería Informática,Ingeniería,2,Oficial,288,15,4.0,1,0,46,25,11,4.8,4.7,4.75,0,0,0,0,0
+EST0630,Psicología,Ciencias Sociales y Humanas,3,Oficial,279,14,3.0,0,1,13,1,1,3.25,2.55,2.9,1,1,0,0,1
+EST0795,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,287,15,3.2,1,0,49,25,12,3.3,3.9,3.5999999999999996,0,0,0,0,0
+EST0580,Ingeniería Informática,Ingeniería,1,Privado,300,17,4.1,1,0,39,22,12,3.5,4.55,4.025,0,0,0,0,0
+EST0528,Ingeniería Industrial,Ingeniería,2,Oficial,295,18,3.4,1,0,39,18,9,2.95,5.0,3.975,0,0,0,0,0
+EST0908,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,396,18,4.0,1,0,48,22,14,4.05,3.8,3.925,0,0,0,0,0
+EST0251,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,311,15,3.7,1,0,70,32,20,4.35,3.5,3.925,0,0,0,0,0
+EST0763,Ingeniería Informática,Ingeniería,5,Oficial,317,16,3.2,1,0,16,8,4,4.15,2.9,3.5250000000000004,0,0,0,0,0
+EST1206,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,323,18,3.4,1,0,62,37,19,2.85,3.05,2.95,1,0,0,0,0
+EST0460,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,266,18,3.0,0,1,47,31,17,3.05,2.3,2.675,1,0,0,1,1
+EST1287,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,320,18,4.0,1,0,44,22,13,1.8,4.9,3.35,0,0,0,0,0
+EST0537,Ingeniería Informática,Ingeniería,1,Privado,180,18,2.3,1,0,36,16,5,1.45,2.7,2.075,1,0,0,0,0
+EST0312,Ingeniería Informática,Ingeniería,5,Oficial,269,17,3.4,1,0,40,22,12,2.95,3.9,3.425,0,0,0,0,0
+EST0096,Ingeniería Informática,Ingeniería,3,Oficial,309,17,3.0,1,0,19,6,3,3.05,3.2,3.125,0,1,0,0,0
+EST1033,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,295,16,3.3,1,0,46,17,10,4.5,2.85,3.675,0,0,0,0,0
+EST1355,Psicología,Ciencias Sociales y Humanas,2,Privado,283,18,3.0,1,0,17,9,3,3.85,2.7,3.2750000000000004,0,0,0,0,0
+EST0036,Ingeniería Industrial,Ingeniería,6,Oficial,379,18,4.6,1,0,75,39,26,4.5,4.9,4.7,0,0,0,0,0
+EST0723,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,307,18,3.7,1,0,69,33,18,4.5,3.65,4.075,0,0,0,0,0
+EST0701,Ingeniería Industrial,Ingeniería,6,Oficial,247,17,3.5,1,0,65,34,16,4.05,3.9,3.9749999999999996,0,0,0,0,0
+EST0891,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,235,18,2.8,1,0,37,23,11,3.0,3.85,3.425,0,0,0,0,0
+EST1189,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,265,16,3.3,1,0,29,16,11,3.65,3.35,3.5,0,0,0,0,0
+EST0063,Ingeniería Industrial,Ingeniería,6,Oficial,326,15,3.1,1,0,44,21,12,1.75,3.0,2.375,1,0,0,0,1
+EST0608,Psicología,Ciencias Sociales y Humanas,2,Oficial,285,15,3.8,1,0,69,29,13,4.7,2.65,3.675,0,0,0,0,0
+EST1268,Ingeniería Informática,Ingeniería,3,Oficial,355,17,3.5,1,0,40,11,3,3.2,3.45,3.325,0,0,0,0,0
+EST0544,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,313,18,,1,0,30,14,8,3.2,2.4,2.8,1,0,0,0,0
+EST1159,Psicología,Ciencias Sociales y Humanas,3,Privado,271,18,3.2,1,0,28,13,8,2.3,2.55,2.425,1,0,0,0,0
+EST0620,Psicología,Ciencias Sociales y Humanas,4,Oficial,288,15,3.2,1,0,40,21,8,3.3,4.55,3.925,0,0,0,0,0
+EST0210,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,290,14,3.4,1,0,31,13,8,2.7,2.85,2.7750000000000004,1,0,0,0,0
+EST0533,Psicología,Ciencias Sociales y Humanas,3,Oficial,202,14,3.2,1,0,39,20,15,3.3,3.75,3.525,0,0,0,0,0
+EST0997,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,238,17,2.7,1,0,13,6,5,3.35,2.75,3.05,0,1,0,0,0
+EST0387,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,340,18,3.5,1,0,45,20,10,2.65,4.75,3.7,0,0,0,1,0
+EST1260,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,305,15,3.3,1,0,33,15,6,2.1,3.2,2.6500000000000004,1,0,0,0,0
+EST0117,Ingeniería Industrial,Ingeniería,6,Oficial,197,16,2.3,1,0,24,16,4,1.4,3.4,2.4,1,0,0,0,0
+EST0650,Psicología,Ciencias Sociales y Humanas,3,Privado,283,14,3.6,1,0,64,38,19,2.05,3.7,2.875,1,0,0,0,0
+EST1343,Ingeniería Informática,Ingeniería,6,Privado,322,18,3.3,1,0,35,15,11,2.1,3.85,2.975,1,0,0,0,0
+EST1077,Psicología,Ciencias Sociales y Humanas,1,Oficial,316,18,3.2,1,0,34,22,13,2.65,3.45,3.05,0,0,0,0,1
+EST0322,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,255,17,2.8,1,0,40,21,9,2.75,3.05,2.9,1,0,0,0,0
+EST0825,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,327,14,3.6,1,0,49,24,12,3.85,4.4,4.125,0,0,0,0,0
+EST1228,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,292,15,4.1,1,0,66,29,15,4.55,2.95,3.75,0,0,0,0,0
+EST0726,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,229,18,2.6,0,1,23,14,6,2.9,2.95,2.925,1,0,0,0,0
+EST0824,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,286,16,2.8,0,1,19,5,1,3.35,2.3,2.825,1,1,0,1,0
+EST1450,Ingeniería Informática,Ingeniería,6,Oficial,309,14,3.8,1,0,45,23,11,3.6,4.35,3.9749999999999996,0,0,0,0,0
+EST1024,Ingeniería Informática,Ingeniería,3,Oficial,298,14,4.1,1,0,42,18,7,3.7,4.85,4.275,0,0,0,0,0
+EST0830,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,351,17,3.9,1,0,62,30,16,2.75,3.25,3.0,0,0,0,0,0
+EST1235,Ingeniería Industrial,Ingeniería,1,Privado,243,17,3.1,1,0,48,24,15,3.55,3.25,3.4,0,0,0,1,0
+EST1394,Ingeniería Informática,Ingeniería,4,Privado,308,16,2.8,1,0,22,12,4,3.1,3.9,3.5,0,0,0,0,0
+EST1305,Ingeniería Informática,Ingeniería,1,Oficial,313,18,3.3,1,0,48,29,12,4.3,3.2,3.75,0,0,0,0,0
+EST0017,Ingeniería Industrial,Ingeniería,2,Oficial,281,14,3.2,1,0,63,37,23,2.85,2.6,2.725,1,0,0,0,0
+EST0750,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,262,18,3.1,1,0,32,22,11,3.8,1.75,2.775,1,0,0,1,0
+EST0467,Ingeniería Industrial,Ingeniería,4,Privado,293,17,3.9,1,0,33,19,8,3.95,3.45,3.7,0,0,0,0,0
+EST0803,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,278,15,2.8,0,1,31,12,4,1.95,3.05,2.5,1,0,1,0,0
+EST1130,Ingeniería Informática,Ingeniería,1,Oficial,295,16,3.8,1,0,64,30,17,3.9,4.2,4.05,0,0,0,0,0
+EST0083,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,285,14,4.2,1,0,56,31,16,4.05,5.0,4.525,0,0,0,0,0
+EST0342,Ingeniería Informática,Ingeniería,1,Privado,290,16,3.1,0,1,28,12,7,3.5,3.6,3.55,0,0,0,0,1
+EST0828,Ingeniería Informática,Ingeniería,3,Oficial,319,14,3.5,1,0,45,26,13,3.3,3.0,3.15,0,0,0,0,0
+EST0565,Psicología,Ciencias Sociales y Humanas,5,Privado,348,15,3.7,1,0,60,30,14,3.0,3.6,3.3,0,0,0,0,0
+EST0199,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,331,15,4.0,1,0,64,29,17,3.1,3.5,3.3,0,0,0,0,0
+EST0324,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,308,15,3.6,1,0,45,22,11,3.9,3.7,3.8,0,0,0,0,0
+EST0402,Ingeniería Informática,Ingeniería,2,Privado,318,18,2.9,1,0,40,22,11,3.35,3.2,3.2750000000000004,0,0,0,0,0
+EST0559,Ingeniería Informática,Ingeniería,2,Oficial,299,18,2.8,1,0,32,13,9,2.2,2.5,2.35,1,0,0,0,0
+EST0105,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,301,17,2.6,0,1,28,15,9,3.65,2.3,2.9749999999999996,1,0,1,0,1
+EST0820,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,384,15,4.1,1,0,68,38,16,3.65,3.5,3.575,0,0,0,0,0
+EST1097,Ingeniería Industrial,Ingeniería,3,Oficial,294,18,3.4,1,0,33,19,10,3.1,4.35,3.7249999999999996,0,0,0,0,0
+EST0213,Ingeniería Informática,Ingeniería,2,Privado,333,17,3.9,1,0,44,18,6,3.4,4.2,3.8,0,0,0,0,0
+EST0074,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,280,15,3.1,1,0,37,17,10,3.5,2.65,3.075,0,0,0,0,0
+EST0857,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,261,17,2.5,1,0,50,20,10,2.9,2.35,2.625,1,0,0,0,0
+EST1231,Ingeniería Industrial,Ingeniería,4,Oficial,323,15,3.9,1,0,42,18,9,3.25,3.6,3.425,0,0,0,0,0
+EST0266,Psicología,Ciencias Sociales y Humanas,2,Oficial,294,16,3.2,1,0,46,24,12,3.9,3.45,3.675,0,0,0,0,0
+EST0123,Psicología,Ciencias Sociales y Humanas,3,Oficial,320,14,3.4,1,0,66,28,16,2.2,2.7,2.45,1,0,0,0,0
+EST1298,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,330,17,4.3,1,0,55,27,12,4.45,3.95,4.2,0,0,0,0,0
+EST1199,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,295,18,3.7,1,0,71,35,22,3.75,3.45,3.6,0,0,0,0,0
+EST1229,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,284,15,3.8,1,0,60,28,15,2.5,4.65,3.575,0,0,0,1,0
+EST0347,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,261,17,4.1,1,0,50,26,15,3.55,5.0,4.275,0,0,0,0,1
+EST0704,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,280,15,3.0,1,0,16,6,2,4.4,2.1,3.25,0,1,0,0,0
+EST0560,Ingeniería Informática,Ingeniería,2,Oficial,338,18,3.7,1,0,70,33,13,3.7,3.75,3.725,0,0,0,0,0
+EST0061,Psicología,Ciencias Sociales y Humanas,2,Oficial,322,17,3.2,0,1,24,6,1,3.9,2.65,3.275,0,1,0,1,1
+EST0013,Ingeniería Informática,Ingeniería,5,Oficial,349,17,4.0,1,0,52,23,13,3.6,1.95,2.775,1,0,0,1,0
+EST0392,Ingeniería Informática,Ingeniería,6,Oficial,301,17,,1,0,62,33,16,3.15,3.35,3.25,0,0,0,0,0
+EST0592,Ingeniería Industrial,Ingeniería,2,Oficial,305,18,4.0,1,0,49,25,9,4.5,5.0,4.75,0,0,0,0,0
+EST0585,Psicología,Ciencias Sociales y Humanas,2,Privado,320,16,2.6,1,0,29,17,9,2.3,3.1,2.7,1,0,0,0,0
+EST1150,Ingeniería Informática,Ingeniería,1,Oficial,276,16,3.4,0,1,10,1,0,3.45,3.2,3.325,1,1,0,0,0
+EST1223,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,380,18,4.4,1,0,80,43,26,4.75,4.55,4.65,0,0,0,0,0
+EST1063,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,409,14,4.6,1,0,58,35,13,3.8,4.3,4.05,0,0,0,0,0
+EST0226,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,264,14,2.8,1,0,51,23,9,2.85,1.6,2.225,1,0,0,0,0
+EST0211,Ingeniería Informática,Ingeniería,2,Privado,273,15,2.7,0,1,18,9,5,3.2,2.6,2.9000000000000004,1,0,1,1,0
+EST0979,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,328,14,3.9,1,0,43,22,16,3.75,4.3,4.025,0,0,0,0,0
+EST0130,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,260,16,3.2,1,0,32,15,6,2.85,3.55,3.2,0,0,0,0,0
+EST0625,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,288,18,3.7,0,1,40,6,0,2.6,4.0,3.3,1,1,1,0,0
+EST0030,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,297,15,2.7,0,1,42,23,8,2.0,2.8,2.4,1,0,1,0,1
+EST0482,Psicología,Ciencias Sociales y Humanas,3,Oficial,234,14,3.2,1,0,47,22,11,3.65,2.25,2.95,1,0,0,1,0
+EST0016,Ingeniería Informática,Ingeniería,4,Oficial,243,14,2.7,1,0,27,14,7,2.75,2.7,2.725,1,0,0,0,0
+EST0504,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,351,16,3.0,1,0,44,24,12,3.6,3.25,3.425,0,0,0,0,0
+EST0871,Psicología,Ciencias Sociales y Humanas,3,Privado,276,17,3.3,1,0,43,24,11,4.5,3.1,3.8,0,0,0,0,0
+EST1170,Psicología,Ciencias Sociales y Humanas,3,Oficial,291,18,3.1,1,0,28,12,4,3.2,2.75,2.975,1,0,0,0,0
+EST0617,Psicología,Ciencias Sociales y Humanas,4,Privado,323,14,3.8,1,0,49,19,10,4.2,4.9,4.550000000000001,0,0,0,0,0
+EST0307,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,275,18,3.2,1,0,23,14,8,2.55,3.4,2.9749999999999996,1,0,0,0,0
+EST0937,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,331,17,4.6,1,0,47,22,11,4.65,5.0,4.825,0,0,0,0,0
+EST0049,Psicología,Ciencias Sociales y Humanas,4,Oficial,272,18,3.0,1,0,50,24,12,3.25,2.7,2.975,1,0,0,0,0
+EST0547,Psicología,Ciencias Sociales y Humanas,4,Oficial,323,14,3.0,1,0,49,24,15,2.95,2.35,2.6500000000000004,1,0,0,0,0
+EST0377,Ingeniería Informática,Ingeniería,1,Oficial,285,14,3.6,1,0,50,22,8,3.4,3.5,3.45,0,0,0,0,0
+EST0744,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,321,18,2.4,0,1,15,3,2,2.4,3.3,2.8499999999999996,1,1,1,1,0
+EST0847,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,234,14,3.4,1,0,34,19,6,2.5,2.95,2.725,1,0,0,0,0
+EST1289,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,215,15,3.7,1,0,44,24,15,4.55,2.95,3.75,0,0,0,0,0
+EST0700,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,373,17,4.6,1,0,45,24,16,4.55,5.0,4.775,0,0,0,0,0
+EST0869,Ingeniería Industrial,Ingeniería,1,Oficial,309,15,3.7,1,0,38,19,12,3.95,2.8,3.375,0,0,0,0,0
+EST1191,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,324,18,4.4,1,0,41,21,9,3.6,5.0,4.3,0,0,0,0,0
+EST0762,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,257,16,3.5,1,0,47,34,18,2.85,2.7,2.7750000000000004,1,0,0,0,0
+EST0215,Ingeniería Informática,Ingeniería,3,Privado,268,17,3.8,1,0,23,15,8,4.6,3.85,4.225,0,0,0,0,0
+EST0350,Contaduría Pública,Ciencias Económicas y Administrativas,4,Oficial,302,18,2.6,1,0,33,15,7,2.3,2.0,2.15,1,0,0,0,0
+EST0996,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,331,15,3.1,1,0,44,20,10,3.4,3.3,3.3499999999999996,0,0,0,0,0
+EST0598,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,339,17,3.2,1,0,37,20,10,4.3,3.25,3.775,0,0,0,0,0
+EST0551,Ingeniería Informática,Ingeniería,3,Oficial,251,15,2.5,1,0,22,13,3,2.05,3.65,2.8499999999999996,1,0,0,0,0
+EST0790,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,243,17,2.8,1,0,43,22,11,1.85,2.5,2.175,1,0,0,1,0
+EST1158,Ingeniería Industrial,Ingeniería,5,Oficial,217,15,2.4,0,1,19,11,8,2.9,2.55,2.7249999999999996,1,0,1,1,0
+EST0087,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,293,18,3.6,1,0,42,24,14,4.7,2.65,3.675,0,0,0,0,0
+EST1265,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,253,17,3.1,1,0,36,18,9,4.0,3.6,3.8,0,0,0,0,0
+EST0396,Ingeniería Informática,Ingeniería,2,Oficial,316,18,4.3,1,0,45,28,13,4.75,4.45,4.6,0,0,0,0,0
+EST0155,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,349,16,4.4,1,0,78,33,15,4.9,4.4,4.65,0,0,0,0,0
+EST1221,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,306,17,3.5,1,0,58,28,11,4.7,3.7,4.2,0,0,0,0,0
+EST0543,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,364,14,3.8,1,0,42,20,5,3.35,3.45,3.4000000000000004,0,0,0,0,0
+EST0673,Psicología,Ciencias Sociales y Humanas,2,Privado,277,14,3.0,1,0,66,36,18,3.7,2.7,3.2,0,0,0,0,0
+EST1328,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,305,14,4.0,1,0,50,24,17,3.55,4.1,3.8249999999999997,0,0,0,0,0
+EST0267,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,291,15,3.4,1,0,15,10,4,2.5,2.6,2.55,1,0,0,0,0
+EST1144,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,278,14,4.0,1,0,65,36,20,4.6,4.25,4.425,0,0,0,0,0
+EST1058,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,220,16,2.8,1,0,39,19,9,3.5,2.05,2.775,1,0,0,0,0
+EST0503,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,295,17,3.4,1,0,47,22,14,3.25,3.55,3.4,0,0,0,0,0
+EST1405,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,319,17,4.7,1,0,71,41,18,4.5,4.9,4.7,0,0,0,0,0
+EST0129,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,270,16,3.1,1,0,42,24,16,3.4,3.7,3.55,0,0,0,0,0
+EST0644,Ingeniería Informática,Ingeniería,5,Oficial,281,16,4.0,1,0,54,30,20,3.5,3.05,3.275,0,0,0,0,0
+EST0336,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,307,18,4.2,1,0,70,32,13,3.45,4.1,3.775,0,0,0,0,0
+EST0676,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,246,17,2.0,1,0,20,11,7,1.6,2.5,2.05,1,1,0,0,0
+EST0712,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,237,18,2.2,1,0,27,17,7,2.8,3.05,2.925,1,0,0,1,0
+EST1242,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,291,14,3.0,1,0,46,24,8,2.5,3.45,2.975,1,0,0,0,0
+EST0742,Ingeniería Informática,Ingeniería,4,Privado,244,14,3.6,1,0,60,29,18,3.75,4.6,4.175,0,0,0,0,0
+EST0642,Ingeniería Informática,Ingeniería,6,Privado,292,18,3.2,1,0,39,27,11,3.95,4.0,3.975,0,0,0,0,0
+EST1446,Ingeniería Informática,Ingeniería,3,Oficial,250,17,2.9,1,0,48,28,15,2.65,2.75,2.7,1,0,0,0,0
+EST0890,Ingeniería Informática,Ingeniería,2,Oficial,271,17,2.8,1,0,25,14,7,2.2,3.1,2.6500000000000004,1,0,0,0,0
+EST0476,Ingeniería Industrial,Ingeniería,2,Oficial,308,18,2.9,1,0,18,10,9,3.05,2.95,3.0,0,0,0,0,0
+EST0733,Ingeniería Informática,Ingeniería,5,Privado,336,17,3.9,0,1,54,19,10,4.05,4.85,4.449999999999999,0,0,0,0,1
+EST1041,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,257,15,3.5,1,0,34,10,7,3.9,4.25,4.075,0,0,0,0,0
+EST0679,Ingeniería Industrial,Ingeniería,2,Oficial,304,14,3.4,1,0,34,16,10,2.8,3.6,3.2,0,0,0,0,0
+EST0638,Ingeniería Industrial,Ingeniería,3,Privado,286,14,3.3,1,0,59,31,20,3.9,2.95,3.425,0,0,0,0,0
+EST1273,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,316,15,3.3,1,0,22,11,4,3.4,4.45,3.925,0,0,0,1,0
+EST0685,Psicología,Ciencias Sociales y Humanas,3,Oficial,306,17,4.4,1,0,58,35,20,4.5,3.95,4.225,0,0,0,0,0
+EST0414,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,268,14,3.1,0,1,43,19,10,3.5,3.35,3.425,0,0,1,0,1
+EST0185,Ingeniería Industrial,Ingeniería,3,Privado,313,14,2.9,1,0,22,11,4,2.95,3.0,2.975,1,0,0,0,0
+EST0035,Ingeniería Informática,Ingeniería,3,Oficial,247,15,3.3,0,1,18,11,5,3.5,4.35,3.925,0,0,0,1,0
+EST0766,Ingeniería Industrial,Ingeniería,3,Oficial,257,16,3.3,0,1,37,22,14,2.85,3.1,2.975,1,0,1,0,0
+EST1329,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,379,15,4.4,1,0,48,22,10,4.25,3.65,3.95,0,0,0,0,0
+EST0807,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,364,14,4.7,1,0,42,26,8,3.4,5.0,4.2,0,0,0,0,0
+EST0767,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,233,17,2.8,1,0,18,9,6,3.0,3.85,3.425,0,0,0,0,0
+EST0885,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,307,15,2.7,1,0,18,8,2,3.35,2.5,2.925,1,0,0,0,0
+EST0097,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,282,18,3.5,1,0,19,11,6,3.9,3.15,3.525,0,0,0,0,0
+EST0787,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,333,14,3.5,1,0,59,36,19,4.05,4.65,4.35,0,0,0,0,0
+EST1392,Ingeniería Informática,Ingeniería,3,Oficial,223,14,3.0,1,0,54,23,12,2.25,2.65,2.45,1,0,0,0,0
+EST1326,Ingeniería Informática,Ingeniería,1,Oficial,194,17,2.3,0,1,44,19,9,2.45,2.0,2.225,1,0,0,0,1
+EST1056,Ingeniería Industrial,Ingeniería,1,Privado,297,14,3.5,1,0,56,30,17,2.9,5.0,3.95,0,0,0,1,0
+EST1085,Ingeniería Industrial,Ingeniería,3,Oficial,355,16,3.9,1,0,54,25,12,4.45,3.95,4.2,0,0,0,0,0
+EST0721,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,314,17,3.1,1,0,54,29,11,2.95,3.3,3.125,0,0,0,0,0
+EST0904,Psicología,Ciencias Sociales y Humanas,1,Privado,293,17,3.3,1,0,15,6,5,3.2,4.0,3.6,0,1,0,0,0
+EST0309,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,277,16,2.0,1,0,10,6,4,2.95,1.4,2.175,1,1,0,0,0
+EST1183,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,378,14,3.9,1,0,59,26,17,3.45,3.95,3.7,0,0,0,0,0
+EST1031,Ingeniería Informática,Ingeniería,2,Privado,217,14,2.9,1,0,31,17,10,2.4,1.8,2.1,1,0,0,0,0
+EST0027,Ingeniería Informática,Ingeniería,3,Oficial,343,18,3.0,1,0,35,12,6,2.2,3.2,2.7,1,0,0,0,0
+EST1388,Ingeniería Informática,Ingeniería,4,Oficial,370,16,4.3,1,0,48,19,9,4.05,4.15,4.1,0,0,0,1,0
+EST1398,Psicología,Ciencias Sociales y Humanas,1,Oficial,300,14,2.9,1,0,53,27,16,2.5,2.85,2.675,1,0,0,0,0
+EST0793,Ingeniería Industrial,Ingeniería,3,Oficial,351,15,,1,0,41,21,16,4.5,4.9,4.7,0,0,0,0,0
+EST1391,Ingeniería Informática,Ingeniería,1,Oficial,203,16,2.7,1,0,25,12,7,2.4,3.45,2.925,1,0,0,1,0
+EST1188,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,260,15,2.7,0,1,20,6,1,3.2,2.6,2.9000000000000004,1,1,0,0,1
+EST0991,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,246,18,3.3,1,0,40,26,13,2.8,4.7,3.75,0,0,0,0,0
+EST0023,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,285,16,3.1,0,1,29,14,10,4.25,2.1,3.175,0,0,0,0,1
+EST0853,Ingeniería Industrial,Ingeniería,2,Oficial,269,14,2.7,1,0,24,13,4,2.5,2.8,2.65,1,0,0,0,0
+EST0163,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,284,18,4.2,1,0,78,41,20,4.9,5.0,4.95,0,0,0,0,0
+EST0337,Psicología,Ciencias Sociales y Humanas,3,Oficial,332,18,2.8,0,1,36,17,12,3.95,3.6,3.7750000000000004,0,0,0,0,1
+EST1255,Psicología,Ciencias Sociales y Humanas,6,Oficial,274,16,2.7,1,0,31,13,5,2.9,3.15,3.025,0,0,0,0,0
+EST0659,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,344,16,3.4,1,0,48,24,14,4.2,3.35,3.7750000000000004,0,0,0,0,0
+EST0099,Trabajo Social,Ciencias Sociales y Humanas,4,Oficial,276,18,2.9,1,0,55,33,17,2.5,3.0,2.75,1,0,0,0,1
+EST0021,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,283,14,3.6,1,0,32,15,9,4.8,3.0,3.9,0,0,0,0,0
+EST0550,Psicología,Ciencias Sociales y Humanas,2,Privado,277,14,3.5,1,0,42,21,10,4.45,3.45,3.95,0,0,0,0,0
+EST0980,Ingeniería Informática,Ingeniería,3,Privado,326,17,3.3,1,0,47,21,13,3.15,3.35,3.25,0,0,0,0,0
+EST1007,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,206,14,3.0,1,0,52,24,9,3.3,2.85,3.075,0,0,0,0,0
+EST1098,Ingeniería Informática,Ingeniería,3,Oficial,343,17,4.1,1,0,44,22,16,4.65,4.0,4.325,0,0,0,0,0
+EST0819,Psicología,Ciencias Sociales y Humanas,5,Privado,299,14,3.6,1,0,50,22,10,2.8,4.0,3.4,0,0,0,0,0
+EST1105,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,232,17,2.6,1,0,26,12,7,2.6,2.55,2.575,1,0,0,0,0
+EST0220,Psicología,Ciencias Sociales y Humanas,2,Privado,355,14,3.7,1,0,16,8,7,3.5,4.65,4.075,0,0,0,0,0
+EST0415,Ingeniería Informática,Ingeniería,5,Oficial,308,17,2.9,0,1,23,1,1,2.6,3.3,2.95,1,1,1,0,0
+EST0956,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,307,14,4.0,1,0,52,20,12,3.6,3.15,3.375,0,0,0,0,0
+EST0485,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,283,18,3.6,1,0,11,5,0,3.55,3.55,3.55,1,1,0,0,0
+EST0570,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,300,16,3.6,1,0,26,9,6,3.3,4.05,3.675,0,0,0,0,0
+EST1059,Ingeniería Informática,Ingeniería,2,Oficial,268,17,2.4,1,0,16,7,2,1.8,2.8,2.3,1,1,0,0,0
+EST0458,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,295,17,2.8,0,1,48,11,0,3.9,3.25,3.575,1,0,1,0,1
+EST0406,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,296,15,3.2,1,0,50,29,17,2.8,3.6,3.2,0,0,0,0,0
+EST1045,Ingeniería Informática,Ingeniería,1,Oficial,269,16,4.0,1,0,63,27,14,4.2,4.2,4.2,0,0,0,0,0
+EST0918,Psicología,Ciencias Sociales y Humanas,3,Oficial,265,18,2.2,0,1,11,7,5,2.05,2.85,2.45,1,1,0,0,0
+EST0204,Ingeniería Informática,Ingeniería,3,Oficial,253,17,3.7,1,0,37,23,11,4.05,3.65,3.8499999999999996,0,0,0,0,0
+EST0041,Trabajo Social,Ciencias Sociales y Humanas,1,Oficial,416,16,5.0,1,0,63,37,16,5.0,4.1,4.55,0,0,0,0,0
+EST1193,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,233,15,3.4,1,0,44,22,8,3.95,3.65,3.8,0,0,0,0,0
+EST0253,Ingeniería Informática,Ingeniería,3,Privado,353,18,4.0,1,0,61,28,16,3.5,4.35,3.925,0,0,0,0,0
+EST0447,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,278,15,2.9,1,0,38,19,12,2.85,4.0,3.425,0,0,0,0,0
+EST0144,Ingeniería Informática,Ingeniería,2,Oficial,273,14,3.6,1,0,47,23,11,3.9,4.95,4.425,0,0,0,0,0
+EST1336,Ingeniería Informática,Ingeniería,2,Privado,326,15,3.8,1,0,39,21,8,3.9,3.3,3.5999999999999996,0,0,0,0,0
+EST0479,Trabajo Social,Ciencias Sociales y Humanas,5,Oficial,310,14,3.0,1,0,38,21,8,2.8,2.5,2.65,1,0,0,0,0
+EST0588,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,280,18,3.4,1,0,42,19,9,2.45,4.1,3.275,0,0,0,0,0
+EST0567,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,318,14,4.1,1,0,63,35,21,3.8,4.45,4.125,0,0,0,0,0
+EST1103,Ingeniería Informática,Ingeniería,4,Privado,345,18,3.4,1,0,35,14,6,3.95,3.4,3.675,0,0,0,1,0
+EST0632,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,323,18,4.4,1,0,77,35,16,5.0,4.65,4.825,0,0,0,1,0
+EST0333,Psicología,Ciencias Sociales y Humanas,2,Oficial,255,16,4.1,1,0,47,26,14,4.05,4.5,4.275,0,0,0,0,0
+EST0088,Psicología,Ciencias Sociales y Humanas,2,Oficial,283,18,4.1,1,0,75,34,15,3.85,4.05,3.95,0,0,0,0,1
+EST0270,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,325,15,3.4,1,0,50,20,10,4.75,3.3,4.025,0,0,0,0,0
+EST0616,Ingeniería Informática,Ingeniería,1,Oficial,284,18,3.7,1,0,29,20,9,3.35,3.45,3.4000000000000004,0,0,0,0,0
+EST0232,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,225,14,2.5,0,1,16,6,4,2.3,2.5,2.4,1,1,0,0,0
+EST0538,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,328,14,4.5,1,0,74,46,22,5.0,4.75,4.875,0,0,0,0,0
+EST1000,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,256,15,2.4,1,0,4,3,1,2.65,1.95,2.3,1,1,0,1,0
+EST0677,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,257,18,3.5,0,1,36,20,9,3.6,3.75,3.675,0,0,1,0,1
+EST1358,Ingeniería Industrial,Ingeniería,4,Privado,328,16,3.0,1,0,59,29,16,2.45,2.6,2.5250000000000004,1,0,0,0,0
+EST0354,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,252,16,3.6,1,0,44,22,14,4.8,3.1,3.95,0,0,0,0,0
+EST0158,Ingeniería Informática,Ingeniería,1,Oficial,343,17,3.8,1,0,41,21,15,3.35,3.75,3.55,0,0,0,0,0
+EST0707,Psicología,Ciencias Sociales y Humanas,2,Oficial,354,14,4.8,1,0,48,23,7,4.9,5.0,4.95,0,0,0,0,0
+EST0949,Administración de Empresas,Ciencias Económicas y Administrativas,4,Oficial,200,14,2.5,1,0,20,16,7,1.9,1.6,1.75,1,0,0,0,0
+EST0290,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,239,15,3.0,0,1,31,9,1,3.25,3.15,3.2,0,0,0,0,1
+EST0641,Psicología,Ciencias Sociales y Humanas,2,Oficial,271,15,4.2,1,0,69,42,26,4.3,5.0,4.65,0,0,0,0,0
+EST1108,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,335,15,3.1,1,0,19,9,6,3.05,2.7,2.875,1,0,0,0,0
+EST1417,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,296,17,3.1,1,0,45,27,13,2.4,2.15,2.275,1,0,0,0,0
+EST0434,Ingeniería Informática,Ingeniería,3,Privado,313,15,4.2,1,0,56,34,16,4.85,2.9,3.875,0,0,0,0,0
+EST0827,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,380,16,4.4,1,0,66,32,21,4.4,3.85,4.125,0,0,0,0,0
+EST0899,Ingeniería Informática,Ingeniería,3,Oficial,320,14,3.5,1,0,46,21,15,2.95,4.25,3.6,0,0,0,0,0
+EST1227,Contaduría Pública,Ciencias Económicas y Administrativas,5,Oficial,207,17,2.6,1,0,3,3,2,3.35,2.25,2.8,1,1,0,0,0
+EST0029,Ingeniería Informática,Ingeniería,2,Privado,306,15,3.0,1,0,31,16,6,3.45,2.55,3.0,0,0,0,0,0
+EST1039,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,298,17,4.5,1,0,57,29,14,3.55,4.85,4.199999999999999,0,0,0,0,0
+EST1422,Ingeniería Informática,Ingeniería,1,Oficial,278,15,3.0,0,1,48,27,13,2.05,2.7,2.375,1,0,0,0,1
+EST0316,Ingeniería Industrial,Ingeniería,3,Privado,249,17,3.8,1,0,40,13,5,3.15,2.9,3.025,0,0,0,0,0
+EST0656,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,273,18,2.9,1,0,23,11,4,3.35,2.25,2.8,1,0,0,0,0
+EST0039,Ingeniería Informática,Ingeniería,2,Oficial,324,18,5.0,1,0,80,43,28,4.0,4.45,4.225,0,0,0,0,0
+EST1252,Psicología,Ciencias Sociales y Humanas,2,Oficial,274,17,2.8,0,1,28,13,7,3.8,2.7,3.25,0,0,0,0,0
+EST1378,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,263,15,2.8,1,0,12,8,4,3.05,2.55,2.8,1,0,0,0,0
+EST0886,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,204,17,2.7,1,0,26,15,8,2.15,1.6,1.875,1,0,0,0,1
+EST0837,Psicología,Ciencias Sociales y Humanas,2,Privado,295,15,4.0,1,0,77,34,20,3.75,3.65,3.7,0,0,0,0,0
+EST1333,Ingeniería Informática,Ingeniería,3,Oficial,283,15,3.2,1,0,34,23,14,2.8,4.15,3.475,0,0,0,0,0
+EST0197,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,279,17,2.8,1,0,38,22,16,3.55,4.1,3.8249999999999997,0,0,0,0,0
+EST1131,Ingeniería Industrial,Ingeniería,2,Privado,247,14,3.3,1,0,41,21,12,3.35,2.9,3.125,0,0,0,0,0
+EST0444,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,329,17,4.0,1,0,49,28,13,4.15,3.4,3.7750000000000004,0,0,0,0,0
+EST0743,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,288,14,4.2,1,0,77,41,14,4.05,4.45,4.25,0,0,0,0,0
+EST0852,Ingeniería Informática,Ingeniería,3,Privado,231,17,2.6,1,0,44,24,8,2.55,3.55,3.05,0,0,0,0,0
+EST1217,Ingeniería Informática,Ingeniería,3,Privado,283,15,3.9,1,0,52,21,11,3.75,3.7,3.725,0,0,0,0,0
+EST0983,Psicología,Ciencias Sociales y Humanas,3,Privado,313,17,2.6,0,1,18,6,3,1.75,2.9,2.325,1,1,1,0,1
+EST0194,Ingeniería Industrial,Ingeniería,2,Privado,361,14,4.3,1,0,62,34,19,4.95,4.5,4.725,0,0,0,0,0
+EST0230,Psicología,Ciencias Sociales y Humanas,1,Privado,260,15,3.3,1,0,53,31,14,1.75,4.0,2.875,1,0,0,0,0
+EST0285,Psicología,Ciencias Sociales y Humanas,2,Privado,297,17,3.8,1,0,41,27,15,4.15,3.6,3.875,0,0,0,0,1
+EST1372,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,281,17,3.2,1,0,34,18,9,3.4,3.3,3.3499999999999996,0,0,0,0,0
+EST0672,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,333,16,3.7,1,0,29,15,6,4.1,3.15,3.625,0,0,0,0,0
+EST1275,Ingeniería Informática,Ingeniería,1,Oficial,349,14,3.9,1,0,68,33,11,2.6,3.35,2.975,1,0,0,0,0
+EST0531,Ingeniería Informática,Ingeniería,2,Privado,364,16,4.0,1,0,46,28,16,5.0,4.05,4.525,0,0,0,0,0
+EST0201,Psicología,Ciencias Sociales y Humanas,3,Privado,299,17,4.0,1,0,41,18,8,4.35,3.7,4.025,0,0,0,0,0
+EST0941,Ingeniería Informática,Ingeniería,2,Privado,334,18,4.2,1,0,79,39,20,3.55,2.8,3.175,0,0,0,0,0
+EST0652,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,317,16,3.4,1,0,49,25,11,4.35,3.3,3.8249999999999997,0,0,0,1,0
+EST0241,Psicología,Ciencias Sociales y Humanas,4,Privado,268,14,2.7,1,0,25,15,11,2.5,3.1,2.8,1,0,0,0,0
+EST1010,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,272,14,3.3,1,0,60,31,16,3.25,3.2,3.225,0,0,0,0,0
+EST0488,Ingeniería Informática,Ingeniería,1,Oficial,286,18,2.8,0,1,35,20,12,2.9,2.6,2.75,1,0,1,1,1
+EST0902,Psicología,Ciencias Sociales y Humanas,2,Privado,306,14,2.9,1,0,35,21,10,2.4,3.05,2.7249999999999996,1,0,0,0,0
+EST0906,Ingeniería Informática,Ingeniería,5,Oficial,336,16,3.6,1,0,50,30,15,3.6,2.65,3.125,0,0,0,0,0
+EST0599,Contaduría Pública,Ciencias Económicas y Administrativas,2,Privado,282,18,3.0,1,0,22,8,2,2.35,3.25,2.8,1,0,0,0,0
+EST0304,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,354,18,3.2,1,0,46,22,8,3.9,3.85,3.875,0,0,0,0,0
+EST0234,Psicología,Ciencias Sociales y Humanas,1,Privado,269,14,3.6,1,0,63,26,12,3.05,4.25,3.65,0,0,0,0,0
+EST0905,Ingeniería Industrial,Ingeniería,1,Oficial,257,16,3.0,1,0,58,25,14,2.35,3.5,2.925,1,0,0,1,0
+EST0546,Ingeniería Industrial,Ingeniería,1,Oficial,368,15,4.7,1,0,64,36,26,5.0,4.5,4.75,0,0,0,0,0
+EST1288,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,427,15,4.7,1,0,71,39,17,4.65,3.9,4.275,0,0,0,0,0
+EST1314,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,258,15,2.6,0,1,33,15,9,2.35,2.15,2.25,1,0,0,0,1
+EST0836,Ingeniería Industrial,Ingeniería,2,Oficial,253,17,3.2,1,0,44,26,14,3.05,2.7,2.875,1,0,0,0,0
+EST0237,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,254,15,2.9,1,0,40,26,6,2.75,3.1,2.925,1,0,0,0,0
+EST0791,Ingeniería Informática,Ingeniería,1,Oficial,298,18,,1,0,38,17,7,3.7,2.05,2.875,1,0,0,0,0
+EST1323,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,330,18,3.7,1,0,45,28,17,2.9,2.95,2.925,1,0,0,0,0
+EST0928,Administración de Empresas,Ciencias Económicas y Administrativas,3,Oficial,311,18,3.6,1,0,40,20,7,2.55,3.55,3.05,0,0,0,0,0
+EST0025,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,253,17,3.4,1,0,30,19,12,3.75,4.3,4.025,0,0,0,0,0
+EST0075,Ingeniería Informática,Ingeniería,5,Privado,260,17,3.1,1,0,27,10,4,2.9,2.3,2.5999999999999996,1,0,0,0,0
+EST0663,Administración de Empresas,Ciencias Económicas y Administrativas,1,Privado,335,18,3.0,0,1,49,25,9,3.35,3.85,3.6,0,0,1,0,1
+EST1182,Psicología,Ciencias Sociales y Humanas,1,Oficial,212,18,2.5,1,0,14,6,1,2.6,2.3,2.45,1,1,0,1,0
+EST0014,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,318,14,,1,0,76,35,19,4.35,4.45,4.4,0,0,0,1,0
+EST0752,Trabajo Social,Ciencias Sociales y Humanas,2,Oficial,272,17,2.9,1,0,20,10,5,3.25,3.2,3.225,0,0,0,0,0
+EST0747,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,293,17,3.8,1,0,43,20,12,4.0,2.8,3.4,0,0,0,0,0
+EST1129,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,318,17,3.5,1,0,40,19,10,3.45,2.9,3.175,0,0,0,0,0
+EST0086,Psicología,Ciencias Sociales y Humanas,3,Oficial,315,16,3.8,1,0,37,14,10,2.8,2.65,2.7249999999999996,1,0,0,0,0
+EST0657,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,278,14,3.7,1,0,45,17,6,4.3,2.95,3.625,0,0,0,0,0
+EST0303,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,312,16,3.9,1,0,81,41,26,3.2,4.4,3.8000000000000003,0,0,0,0,0
+EST0753,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,364,18,4.1,1,0,56,28,17,3.3,4.55,3.925,0,0,0,0,0
+EST0122,Psicología,Ciencias Sociales y Humanas,3,Oficial,355,16,3.8,1,0,48,23,13,3.25,3.8,3.525,0,0,0,0,0
+EST0358,Ingeniería Industrial,Ingeniería,3,Oficial,308,14,4.1,1,0,56,29,14,3.85,3.35,3.6,0,0,0,0,0
+EST0532,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,270,16,3.0,1,0,33,11,8,1.35,4.9,3.125,0,0,0,0,0
+EST0534,Ingeniería Industrial,Ingeniería,2,Privado,377,16,4.5,1,0,63,30,17,4.4,4.45,4.425000000000001,0,0,0,0,0
+EST0106,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,329,15,4.1,1,0,47,17,11,3.9,3.7,3.8,0,0,0,0,0
+EST1349,Ingeniería Informática,Ingeniería,1,Oficial,344,14,4.2,1,0,50,26,14,3.5,3.35,3.425,0,0,0,0,0
+EST0794,Psicología,Ciencias Sociales y Humanas,3,Privado,341,16,3.9,1,0,59,27,14,4.0,4.5,4.25,0,0,0,0,0
+EST1075,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,311,14,3.5,1,0,48,21,13,4.25,3.35,3.8,0,0,0,0,0
+EST0938,Trabajo Social,Ciencias Sociales y Humanas,6,Oficial,261,15,2.5,1,0,31,17,6,2.2,2.7,2.45,1,0,0,0,0
+EST1241,Ingeniería Industrial,Ingeniería,2,Oficial,279,15,2.4,0,1,28,7,4,1.9,2.4,2.15,1,1,1,1,0
+EST0817,Ingeniería Industrial,Ingeniería,1,Oficial,193,17,2.8,1,0,25,12,3,3.6,2.4,3.0,0,0,0,0,0
+EST1145,Psicología,Ciencias Sociales y Humanas,2,Oficial,348,18,4.0,1,0,62,28,14,4.6,3.0,3.8,0,0,0,0,0
+EST0892,Ingeniería Industrial,Ingeniería,1,Privado,319,15,3.5,1,0,36,10,1,4.2,4.2,4.2,0,0,0,1,0
+EST1006,Ingeniería Informática,Ingeniería,2,Oficial,295,16,4.3,1,0,51,30,15,5.0,4.05,4.525,0,0,0,0,0
+EST0715,Psicología,Ciencias Sociales y Humanas,2,Oficial,264,14,4.4,1,0,65,37,15,5.0,5.0,5.0,0,0,0,1,0
+EST0861,Psicología,Ciencias Sociales y Humanas,3,Oficial,326,15,3.2,1,0,26,7,4,2.35,3.85,3.1,0,1,0,0,0
+EST0007,Psicología,Ciencias Sociales y Humanas,3,Oficial,289,16,2.8,1,0,26,13,4,3.1,2.3,2.7,1,0,0,0,0
+EST0341,Trabajo Social,Ciencias Sociales y Humanas,2,Privado,332,14,4.4,1,0,67,29,16,4.85,5.0,4.925,0,0,0,1,0
+EST1023,Ingeniería Informática,Ingeniería,2,Oficial,295,15,3.2,1,0,42,16,7,2.4,2.2,2.3,1,0,0,0,0
+EST0952,Administración de Empresas,Ciencias Económicas y Administrativas,5,Oficial,317,17,2.8,0,1,25,11,5,2.25,3.85,3.05,0,0,0,0,1
+EST1079,Ingeniería Industrial,Ingeniería,2,Privado,247,16,3.4,1,0,45,15,6,3.3,3.65,3.4749999999999996,0,0,0,0,0
+EST0776,Psicología,Ciencias Sociales y Humanas,2,Oficial,287,16,3.5,1,0,43,25,15,2.7,3.35,3.0250000000000004,0,0,0,0,0
+EST0080,Trabajo Social,Ciencias Sociales y Humanas,3,Privado,273,17,3.0,1,0,31,12,9,3.75,3.5,3.625,0,0,0,0,0
+EST0317,Administración de Empresas,Ciencias Económicas y Administrativas,5,Privado,337,18,3.7,1,0,53,27,15,3.45,3.8,3.625,0,0,0,0,0
+EST1317,Ingeniería Informática,Ingeniería,1,Oficial,308,14,3.3,1,0,44,25,11,3.1,3.75,3.425,0,0,0,0,0
+EST0894,Ingeniería Informática,Ingeniería,2,Privado,303,16,3.0,0,1,46,27,16,4.3,2.95,3.625,0,0,1,0,1
+EST1263,Ingeniería Informática,Ingeniería,5,Oficial,319,18,3.8,1,0,44,23,10,2.4,2.3,2.3499999999999996,1,0,0,0,0
+EST1351,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,316,17,3.6,1,0,56,29,16,2.95,4.15,3.5500000000000003,0,0,0,0,0
+EST0622,Ingeniería Informática,Ingeniería,4,Privado,217,15,1.9,0,1,8,1,0,0.75,3.75,2.25,1,1,1,1,0
+EST0975,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,221,15,3.2,1,0,46,25,11,3.0,3.2,3.1,0,0,0,0,0
+EST0053,Ingeniería Industrial,Ingeniería,3,Oficial,290,18,3.0,1,0,31,18,11,3.6,2.5,3.05,0,0,0,0,0
+EST1175,Ingeniería Industrial,Ingeniería,2,Oficial,266,14,3.8,1,0,61,27,14,4.0,3.5,3.75,0,0,0,0,0
+EST0806,Psicología,Ciencias Sociales y Humanas,3,Privado,345,14,3.4,1,0,56,25,12,2.7,3.45,3.075,0,0,0,0,0
+EST0914,Contaduría Pública,Ciencias Económicas y Administrativas,4,Privado,326,17,3.6,1,0,27,12,6,3.7,3.25,3.475,0,0,0,0,1
+EST0321,Psicología,Ciencias Sociales y Humanas,2,Oficial,311,14,3.0,1,0,34,12,6,3.45,3.9,3.675,0,0,0,0,0
+EST1395,Psicología,Ciencias Sociales y Humanas,1,Oficial,276,15,3.2,1,0,32,13,4,3.5,3.05,3.275,0,0,0,0,0
+EST0349,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,365,15,3.9,1,0,59,24,13,4.5,4.95,4.725,0,0,0,0,0
+EST1213,Administración de Empresas,Ciencias Económicas y Administrativas,1,Oficial,226,18,2.6,0,1,40,19,11,4.35,2.8,3.5749999999999997,0,0,0,0,0
+EST1431,Psicología,Ciencias Sociales y Humanas,5,Privado,351,18,3.8,1,0,59,32,17,3.3,4.55,3.925,0,0,0,0,0
+EST0947,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,299,16,3.2,1,0,23,8,3,1.9,3.25,2.575,1,0,0,0,0
+EST0889,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,304,18,4.0,1,0,51,24,11,4.35,2.95,3.65,0,0,0,0,0
+EST0059,Contaduría Pública,Ciencias Económicas y Administrativas,3,Oficial,328,16,3.5,1,0,32,13,4,2.9,3.55,3.2249999999999996,0,0,0,0,0
+EST1382,Contaduría Pública,Ciencias Económicas y Administrativas,2,Oficial,217,15,3.0,1,0,71,40,11,2.7,2.6,2.6500000000000004,1,0,0,0,0
+EST1320,Contaduría Pública,Ciencias Económicas y Administrativas,3,Privado,298,14,3.9,1,0,69,40,13,3.75,3.3,3.525,0,0,0,0,0
+EST0564,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,310,16,3.9,1,0,62,36,20,4.1,4.8,4.449999999999999,0,0,0,0,0
+EST0966,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,254,17,3.6,1,0,52,23,10,3.9,3.0,3.45,0,0,0,0,0
+EST0840,Psicología,Ciencias Sociales y Humanas,3,Oficial,241,14,2.2,0,1,8,1,1,2.9,1.85,2.375,1,1,0,0,1
+EST0279,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,330,17,3.1,1,0,45,21,7,3.35,3.2,3.2750000000000004,0,0,0,0,0
+EST0206,Ingeniería Industrial,Ingeniería,3,Oficial,282,14,2.4,0,1,5,0,0,1.8,2.15,1.975,1,1,1,0,1
+EST0380,Ingeniería Industrial,Ingeniería,3,Privado,349,15,4.5,1,0,80,41,20,5.0,5.0,5.0,0,0,0,0,0
+EST1001,Contaduría Pública,Ciencias Económicas y Administrativas,1,Oficial,311,14,3.2,1,0,50,25,16,3.3,4.75,4.025,0,0,0,0,0
+EST1171,Ingeniería Informática,Ingeniería,1,Privado,264,14,3.8,1,0,51,26,13,3.75,3.0,3.375,0,0,0,0,0
+EST1115,Ingeniería Informática,Ingeniería,1,Oficial,235,17,3.6,1,0,44,18,6,3.4,3.0,3.2,0,0,0,0,0
+EST1201,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,274,14,3.7,0,1,34,13,1,3.2,2.6,2.9000000000000004,1,0,0,0,0
+EST1294,Ingeniería Industrial,Ingeniería,3,Privado,290,17,3.4,1,0,62,33,15,3.8,3.35,3.575,0,0,0,0,0
+EST0306,Administración de Empresas,Ciencias Económicas y Administrativas,4,Privado,403,15,3.9,1,0,55,25,15,2.35,3.1,2.725,1,0,0,0,0
+EST1397,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,268,14,4.0,1,0,64,31,16,3.15,4.9,4.025,0,0,0,0,0
+EST1282,Ingeniería Industrial,Ingeniería,3,Oficial,274,17,3.2,1,0,43,21,10,3.85,2.55,3.2,0,0,0,0,0
+EST0124,Ingeniería Informática,Ingeniería,2,Oficial,206,16,3.0,1,0,59,32,16,2.65,3.85,3.25,0,0,0,0,0
+EST1280,Ingeniería Industrial,Ingeniería,4,Oficial,212,17,2.0,1,0,21,10,4,3.45,2.05,2.75,1,0,0,0,0
+EST0774,Psicología,Ciencias Sociales y Humanas,3,Oficial,296,16,4.2,1,0,73,35,19,4.0,3.85,3.925,0,0,0,0,0
+EST0277,Ingeniería Informática,Ingeniería,1,Oficial,256,18,2.7,1,0,41,23,11,3.2,3.2,3.2,0,0,0,0,0
+EST0822,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,352,15,4.4,1,0,67,34,16,4.95,3.75,4.35,0,0,0,0,0
+EST0628,Contaduría Pública,Ciencias Económicas y Administrativas,1,Privado,220,18,2.9,0,1,42,21,13,1.95,4.1,3.025,0,0,0,0,1
+EST0816,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,303,16,3.9,1,0,49,21,10,4.1,3.5,3.8,0,0,0,0,0
+EST1161,Administración de Empresas,Ciencias Económicas y Administrativas,3,Privado,355,15,3.0,1,0,35,15,8,3.0,3.05,3.025,0,0,0,0,0
+EST0964,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,324,15,3.9,1,0,53,24,13,3.85,3.4,3.625,0,0,0,0,0
+EST0714,Psicología,Ciencias Sociales y Humanas,1,Privado,263,18,4.1,1,0,26,12,6,4.4,3.4,3.9000000000000004,0,0,0,0,0
+EST0596,Ingeniería Informática,Ingeniería,4,Oficial,300,17,3.5,1,0,73,38,18,3.6,3.7,3.6500000000000004,0,0,0,0,0
+EST0800,Psicología,Ciencias Sociales y Humanas,3,Privado,227,17,2.6,0,1,20,11,5,1.55,3.1,2.325,1,1,0,0,1
+EST0429,Administración de Empresas,Ciencias Económicas y Administrativas,2,Oficial,346,15,3.7,1,0,42,24,9,4.85,3.0,3.925,0,0,0,1,0
+EST1414,Administración de Empresas,Ciencias Económicas y Administrativas,2,Privado,291,18,2.4,0,1,22,13,8,2.5,2.2,2.35,1,0,1,0,0
+EST0118,Ingeniería Informática,Ingeniería,2,Oficial,330,16,3.3,1,0,39,26,13,3.2,3.25,3.225,0,0,0,0,0
+EST0609,Trabajo Social,Ciencias Sociales y Humanas,3,Oficial,355,14,3.8,1,0,37,18,9,2.7,4.2,3.45,0,0,0,0,0
+EST1198,Ingeniería Informática,Ingeniería,2,Oficial,220,16,2.9,0,1,23,11,1,2.2,3.4,2.8,1,0,0,0,1
+EST0519,Ingeniería Industrial,Ingeniería,2,Oficial,294,14,3.0,0,1,30,17,4,3.8,3.85,3.825,0,0,1,0,0
+EST1068,Ingeniería Informática,Ingeniería,2,Oficial,291,18,3.0,1,0,37,13,9,3.9,3.1,3.5,0,0,0,0,0
+EST0556,Ingeniería Industrial,Ingeniería,2,Oficial,362,18,3.5,1,0,49,24,11,3.3,3.25,3.275,0,0,0,0,0
+EST0376,Psicología,Ciencias Sociales y Humanas,2,Oficial,379,18,4.3,1,0,47,28,20,4.45,4.2,4.325,0,0,0,0,0
+EST0523,Psicología,Ciencias Sociales y Humanas,1,Privado,291,18,,1,0,21,9,5,2.0,1.65,1.825,1,1,0,1,0
+EST0576,Psicología,Ciencias Sociales y Humanas,4,Oficial,244,17,3.5,1,0,70,33,15,3.75,4.35,4.05,0,0,0,0,0
+EST0177,Psicología,Ciencias Sociales y Humanas,3,Oficial,322,17,3.2,1,0,59,33,13,2.5,3.05,2.775,1,0,0,0,0
+EST0478,Trabajo Social,Ciencias Sociales y Humanas,6,Privado,245,14,3.1,1,0,32,13,6,2.9,3.2,3.05,0,0,0,0,0
+EST0754,Psicología,Ciencias Sociales y Humanas,2,Privado,245,17,2.2,0,1,2,1,0,3.2,2.1,2.6500000000000004,1,1,1,0,0
